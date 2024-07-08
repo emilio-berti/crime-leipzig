@@ -1,30 +1,44 @@
 import pandas as pd
 import geopandas as gpd
 from shapely.geometry import Point
+from shapely.geometry import Polygon
 from geopy.geocoders import Nominatim
 import plotly.express as px
-
-# # mapbox token ---------
-# token = pd.read_csv("tokens.csv")
-# token = token[token.app == 'mapbox'].token[0]
 
 # read crime csv --------
 d = pd.read_csv("data/crimes.csv")
 places = d.place
+streets = d.street
 
 # locate addresses ----------
 geolocator = Nominatim(user_agent = "GetLoc")
 lat = [None for x in places]
 lon = [None for x in places]
 for i in range(len(places)):
-    coords = geolocator.geocode(places[i])
-    lat[i] = coords[1][0]
-    lon[i] = coords[1][1]
+    print("  -", i + 1, "of", len(places))
+    if (streets[i] != streets[i]): #street is nan
+        coords = geolocator.geocode(places[i]) #use only place
+    else:
+        coords = geolocator.geocode(streets[i] + ', ' + places[i]) #use also street
+    if coords is None:
+        lat[i] = None
+        lon[i] = None
+    else:
+        lat[i] = coords[1][0]
+        lon[i] = coords[1][1]
+
+# remove locations that were not found
+while None in lat:
+    empty = lat.index(None)
+    lat.pop(empty)
+    lon.pop(empty)
+    d = d.drop(empty)
 
 geom = [Point(lon[i], lat[i]) for i in range(len(lat))]
 d['geometry'] = geom
 d = gpd.GeoDataFrame(d, crs = "EPSG:4326")
-d['size'] = 3
+s = [1 if x != x else 3 for x in d.street]
+d['size'] = s
 
 px.set_mapbox_access_token(open(".mapbox_token").read())
 fig = px.scatter_mapbox(
@@ -32,8 +46,9 @@ fig = px.scatter_mapbox(
     lat = d.geometry.y,
     lon = d.geometry.x,
     size = "size",
+    opacity = 0.75,
     hover_name = "title",
-    hover_data = ["title", "street", "date", "people"],
+    hover_data = ["title", "place", "street", "date", "people"],
     zoom = 10,
     color = "title"
 )
