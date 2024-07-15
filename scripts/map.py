@@ -7,7 +7,7 @@ from geopy.geocoders import Nominatim
 import plotly.express as px
 
 if len(sys.argv) == 1:
-    clean = True
+    clean = False
 else:
     clean = sys.argv[1]
 
