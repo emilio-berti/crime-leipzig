@@ -5,6 +5,7 @@ from shapely.geometry import Point
 from shapely.geometry import Polygon
 from geopy.geocoders import Nominatim
 import plotly.express as px
+import plotly.io as pio
 
 if len(sys.argv) == 1:
     clean = False
@@ -62,4 +63,5 @@ fig = px.scatter_mapbox(
     zoom = 10,
     color = "title"
 )
+pio.write_image(fig, "figures/map", format = "pdf")
 fig.show()
