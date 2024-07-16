@@ -8,7 +8,7 @@ import plotly.express as px
 import plotly.io as pio
 
 if len(sys.argv) == 1:
-    clean = False
+    clean = True
 else:
     clean = sys.argv[1]
 
