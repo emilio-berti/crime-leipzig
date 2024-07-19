@@ -36,8 +36,10 @@ if clean:
             lon[i] = coords[1][1]
 
     # remove locations that were not found ----------
+    print(" - Cannot find:")
     while None in lat:
         empty = lat.index(None)
+        print("   - " + d['place'][empty]))
         lat.pop(empty)
         lon.pop(empty)
         d = d.drop(empty)
@@ -61,7 +63,8 @@ fig = px.scatter_mapbox(
     hover_name = "title",
     hover_data = ["title", "place", "street", "date", "people"],
     zoom = 10,
-    color = "title"
+    color = "title",
+    mapbox_style = "satellite-streets"
 )
 pio.write_image(fig, "figures/map", format = "pdf")
 fig.show()
