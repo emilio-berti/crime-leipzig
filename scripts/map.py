@@ -11,6 +11,7 @@ if len(sys.argv) == 1:
     clean = True
 else:
     clean = sys.argv[1]
+    clean = True if clean == "True" else False
 
 if clean:
     # read crime csv --------
@@ -39,7 +40,7 @@ if clean:
     print(" - Cannot find:")
     while None in lat:
         empty = lat.index(None)
-        print("   - " + d['place'][empty]))
+        print("   - " + d['place'][empty])
         lat.pop(empty)
         lon.pop(empty)
         d = d.drop(empty)
