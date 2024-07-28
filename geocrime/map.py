@@ -38,14 +38,14 @@ def geolocate(d):
     d['lon'] = lon
     return d
 
-def shape(d, write = True):
+def shape(d, file = "data/crimes.shp", write = True):
     # create geodataframe --------
-    geom = [Point(d.lon[i], d.lat[i]) for i in range(len(d))]
+    geom = [Point(d.lon[i], d.lat[i]) for i in d.index]
     d['geometry'] = geom
     d = gpd.GeoDataFrame(d, crs = "EPSG:4326")
     s = [1 if x != x else 3 for x in d.street]
     d['size'] = s
-    if write: d.to_file("data/crimes.shp")
+    if write: d.to_file(file)
     return d
 
 def map(geo):
@@ -57,7 +57,7 @@ def map(geo):
         size = "size",
         opacity = 0.75,
         hover_name = "title",
-        hover_data = ["title", "place", "street", "date", "people"],
+        hover_data = ["title", "place", "street", "date"],
         zoom = 10,
         color = "title",
         mapbox_style = "satellite-streets"
