@@ -25,13 +25,14 @@ def geolocate(d):
             lon[i] = coords[1][1]
 
     # remove rows without location -----------
-    print(" - Cannot find:")
-    while None in lat:
-        empty = lat.index(None)
-        print("   - " + d['place'][empty])
-        lat.pop(empty)
-        lon.pop(empty)
-        d = d.drop(empty)
+    empty = [i for i, x in enumerate(lat) if x is None]
+    empty.reverse()
+    print(" - Cannot find " +  str(len(empty)) + ":")
+    for e in empty:        
+        print("   - " + d['place'][e])
+        lat.pop(e)
+        lon.pop(e)
+        d = d.drop(e)
 
     # add geo columns -----------
     d['lat'] = lat
@@ -62,5 +63,6 @@ def map(geo):
         color = "title",
         mapbox_style = "satellite-streets"
     )
+    fig.write_html("figures/map.html")
     pio.write_image(fig, "figures/map", format = "pdf")
-    fig.show()
+    #fig.show()
