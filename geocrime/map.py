@@ -61,7 +61,7 @@ def map(geo):
         hover_data = ["title", "place", "street", "date"],
         zoom = 10,
         color = "title",
-        mapbox_style = "satellite-streets"
+        mapbox_style = "streets"
     )
     fig.write_html("figures/map.html")
     pio.write_image(fig, "figures/map", format = "pdf")
