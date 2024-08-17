@@ -44,7 +44,7 @@ def shape(d, file = "data/crimes.shp", write = True):
     geom = [Point(d.lon[i], d.lat[i]) for i in d.index]
     d['geometry'] = geom
     d = gpd.GeoDataFrame(d, crs = "EPSG:4326")
-    s = [1 if x != x else 3 for x in d.street]
+    s = [1 if x != x else 2 for x in d.street]
     d['size'] = s
     if write: d.to_file(file)
     return d
