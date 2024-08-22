@@ -25,9 +25,9 @@ if clean:
     for i in range(len(places)):
         print("  -", i + 1, "of", len(places))
         if (streets[i] != streets[i]): #street is nan
-            coords = geolocator.geocode(places[i]) #use only place
+            coords = geolocator.geocode('Leipzig, ' + places[i]) #use only place
         else:
-            coords = geolocator.geocode(streets[i] + ', ' + places[i]) #use also street
+            coords = geolocator.geocode('Leipzig, ' + places[i] + ', ' + streets[i]) #use also street
         if coords is None:
             lat[i] = None
             lon[i] = None
@@ -39,7 +39,7 @@ if clean:
     print(" - Cannot find:")
     while None in lat:
         empty = lat.index(None)
-        print("   - " + d['place'][empty]))
+        print("   - " + d['place'][empty])
         lat.pop(empty)
         lon.pop(empty)
         d = d.drop(empty)
