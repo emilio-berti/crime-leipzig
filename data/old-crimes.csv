@@ -22,7 +22,7 @@ date,time,title,place,street
 7/5/2024,2:50:00 PM,Burglary in business,Dölitz-Dösen,Bornaische Straße
 7/5/2024,4:50:00 PM,Burglary in business,Dölitz-Dösen,Bornaische Straße
 7/6/2024,12:00:00 AM,Property damage,Wahren,Stahmelner Straße
-7/6/2024,2:30:00 AM,Assault,Leipzig,Markt
+7/6/2024,2:30:00 AM,Battery,Leipzig,Markt
 7/7/2024,3:00:00 PM,Burglary in business,Leutzsch,
 7/8/2024,9:00:00 PM,Burglary in business,Dölzig,
 7/8/2024,3:10:00 PM,Property damage,Zentrum-Süd,
@@ -36,11 +36,11 @@ date,time,title,place,street
 7/10/2024,6:00:00 PM,Robbery,Wiederitzsch,
 7/9/2024,12:00:00 PM,Anti-constitutional slogans,Brandis,
 7/10/2024,6:00:00 PM,Anti-constitutional slogans,Volkmarsdorf,Wurzner Straße
-7/11/2024,12:00:00 PM,Theft,Zentrum-Süd,Floßplatz
+7/11/2024,12:00:00 PM,Bike stolen,Zentrum-Süd,Floßplatz
 7/7/2024,7:00:00 PM,Attempted robbery,Grünau-Mitte,Stuttgarter Allee
 7/11/2024,12:00:00 PM,Grand theft auto,Holzhausen,Walter-Heise-Straße
-7/12/2024,2:45:00 AM,Bank / ATM robbery,Brandis,Markt
-7/11/2024,5:50:00 PM,Assault,Grünau-Mitte,Ludwigsburger Straße
+7/12/2024,2:45:00 AM,Bank robbery,Brandis,Markt
+7/11/2024,5:50:00 PM,Dangerous bodily harm,Grünau-Mitte,Ludwigsburger Straße
 7/11/2024,4:30:00 PM,Robbery in business,Dölitz-Dösen,
 7/11/2024,12:00:00 PM,Burglary in business,Mölkau,
 7/14/2024,11:30:00 PM,Homicide,Leipzig,Eisenbahnstrasse 30
@@ -62,6 +62,7 @@ date,time,title,place,street
 7/16/2024,12:00:00 PM,Grand theft auto,Oschatz,Gabelsbergerstraße
 7/17/2024,8:00:00 AM,Burglary in business,Leipzig,Burgplatz
 7/15/2024,10:00:00 PM,Burglary in business,Connewitz,
+7/16/2024,10:00:00 AM,Fraud,Borsdorf,Panitzsch
 7/18/2024,2:38:00 AM,DUI,Leipzig,Zentrum
 7/17/2024,9:05:00 PM,Attempted homicide,Lößnig,Georg-Maurer-Straße
 7/18/2024,12:00:00 PM,Burglary,Meusdorf,Am Geleinholz
@@ -85,6 +86,7 @@ date,time,title,place,street
 7/23/2024,12:00:00 AM,Burglary in business,Bohlen,
 7/23/2024,12:00:00 AM,Burglary in business,Zentrum,
 7/13/2024,12:00:00 AM,Grand theft auto,Wahren,Hermundurenstrasse
+7/23/2024,1:00:00 PM,Fraud,Wiederitzsch,Karl-Marx-Straße
 7/23/2024,10:45:00 PM,Property damage,Zentrum-Nordwest,
 7/23/2024,12:00:00 AM,Burglary in business,Zentrum-Ost,
 7/19/2024,12:30:00 AM,Property damage,Reudnitz-Thonberg,Witzgallstraße 22
@@ -136,7 +138,7 @@ date,time,title,place,street
 6/29/2024,6:15:00 PM,Grand theft auto,Rackwitz,Roba Straße
 6/29/2024,1:00:00 AM,Graffiti,Zentrum-Süd,Arthur-Hoffmann-Straße
 6/29/2024,12:00:00 AM,Burglary in business,Leipzig,Schleußig
-6/29/2024,1:00:00 AM,Assault,Volkmarsdorf,Eisenbahnstrasse
+6/29/2024,1:00:00 AM,Battery,Volkmarsdorf,Eisenbahnstrasse
 6/28/2024,7:00:00 PM,Anti-constitutional slogans,Langenreichenbach,Am Heidelbach
 6/25/2024,12:15:00 AM,Assault,Zentrum-Süd,Beethovenstrasse
 6/28/2024,12:00:00 AM,Anti-constitutional slogans,Böhlen,Böhlener Straße
@@ -168,7 +170,7 @@ date,time,title,place,street
 6/22/2024,3:15:00 PM,Assault,Zentrum-Ost,Willy-Brandt-Platz
 6/22/2024,1:00:00 PM,Graffiti,Liebertwolkwitz,Kirchstrasse
 6/21/2024,12:00:00 AM,Grand theft auto,Schönefeld,Scheumannstraße
-6/19/2024,1:25:00 PM,Burglary in business,Seehausen,
+6/19/2024,1:25:00 PM,Shoplifting,Seehausen,
 6/20/2024,12:00:00 AM,Grand theft auto,Schönefeld,Taubestrasse
 6/20/2024,1:05:00 AM,Grand theft auto,Schönefeld,Kohlweg
 6/20/2024,12:00:00 AM,Burglary in business,Schleußig,
@@ -191,7 +193,7 @@ date,time,title,place,street
 8/4/2024,11:30:00 AM,Assault,Grünau-Ost,Alte Salzstrasse
 8/4/2024,12:00:00 AM,Burglary in business,Grimma,Gerichtswiesen
 8/4/2024,10:40:00 PM,Arson,Großzschocher,Schönauer Straße
-8/6/2024,3:30:00 AM,Bank / ATM robbery,Anger,Gregor-Fuchs-Straße 31a
+8/6/2024,3:30:00 AM,ATM robbery,Anger,Gregor-Fuchs-Straße 31a
 8/5/2024,4:00:00 PM,Graffiti,Plagwitz,Markranstädter Straße
 8/5/2024,12:00:00 AM,Burglary in business,Torgau,Fischerstraße
 8/5/2024,10:45:00 PM,Narcotics,Dölitz,Helenenstrasse
@@ -214,32 +216,3 @@ date,time,title,place,street
 8/13/2024,12:00:00 AM,Burglary in business,Markkleeberg,Dösener Straße
 8/13/2024,7:15:00 PM,Assault,Zentrum,Müllerpark
 8/14/2024,12:12:00 AM,Arson,Grünau-Nord,Jupiterstrasse
-8/13/2024,5:08:00 PM,DUI,Lausen-Grünau,Zschochersche Allee
-8/14/2024,9:35:00 PM,Attempted homicide,Zentrum,Schwanenteich
-8/14/2024,6:19:00 AM,Burglary in business,Altlindenau,Georg-Schwarz-Straße
-8/14/2024,12:00:00 AM,Burglary in business,Plagwitz,
-8/14/2024,6:45:00 PM,Burglary,Grünau-Siedlung,
-8/15/2024,2:30:00 AM,Robbery,Connewitz,Kohrener Straße
-8/15/2024,12:00:00 AM,Burglary in business,Grünau-Mitte,
-8/16/2024,2:45:00 AM,Robbery,Gohlis-Süd,Georg-Schumann-Straße
-8/16/2024,10:09:00 AM,Assault,Zentrum-Süd,Dufourstrasse
-8/16/2024,8:45:00 PM,Anti-constitutional slogans,Zentrum,Augustusplatz
-8/17/2024,12:00:00 AM,Burglary,Neulindenau,Lützner Straße
-8/17/2024,8:12:00 PM,Anti-constitutional slogans,Probstheida,Völkerschlachtdenkmal
-8/19/2024,12:15:00 AM,Arson,Espenhain,Straße des Friedens
-8/16/2024,11:00:00 PM,Robbery,Eutritzsch,Eutritzscher Markt
-8/18/2024,9:50:00 PM,Burglary in business,Zentrum-Südost,Nürnberger Straße
-8/17/2024,3:30:00 AM,Robbery,Markleeberg,Schillerplatz
-8/19/2024,5:20:00 PM,Robbery,Schkeuditz,Turnerstraße 7
-8/19/2024,8:20:00 PM,Robbery,Zentrum-Nord,Willy-Brandt-Platz
-8/16/2024,5:00:00 AM,Burglary in business,Eutritzsch,
-8/19/2024,12:00:00 AM,Burglary in business,Möckern,
-8/19/2024,3:30:00 AM,Grand theft auto,Altlindenau,Merseburger Straße
-8/20/2024,5:00:00 AM,Arson,Connewitz,Bernhard-Göring-Straße
-8/19/2024,12:00:00 AM,Burglary in business,Grünau,Karlsruher Straße
-8/20/2024,12:00:00 AM,Burglary in business,Zentrum-Südost,
-8/21/2024,4:50:00 AM,Attempted robbery,Gohlis,Cöthner Straße
-8/20/2024,4:30:00 AM,Burglary in business,Lützschena-Stahmeln,
-8/21/2024,12:00:00 AM,Burglary in business,Volkmarsdorf,Hermann-Liebmann-Straße
-8/21/2024,2:10:00 AM,Attempted robbery,Leutzsch,Friesenstrasse
-8/21/2024,12:00:00 AM,Grand theft auto,Markkleeberg-Wachau,Gartenweg
