@@ -56,9 +56,23 @@ def shape(d, file = "data/crimes.shp", write = True):
 def map(geo):
     districts = gpd.read_file("data/ot.shp")
     districts = districts.to_crs(geo.crs)
+    violent_crimes = [
+        'Assault', 'Attempted homicide', 'Attempted robbery',
+        'Burglary', 'Homicide', 'Robbery', 'Sexual assault',
+        'Theft'
+    ]
+    geo_districts = geo[[x in violent_crimes for x in geo.title]]
     total_crimes = pd.DataFrame({
-      'n': gpd.sjoin(districts, geo).groupby("OT").title.count()
+      'n': gpd.sjoin(districts, geo_districts).groupby("OT").title.count()
     })
+    missing_OT = [x for x in districts.OT if x not in total_crimes.index]
+    total_crimes = pd.concat([
+        total_crimes,
+        pd.DataFrame(
+            {'n': [0 for x in missing_OT], 'OT': missing_OT},
+            index = missing_OT
+        ).set_index('OT')
+    ])
     m = districts.merge(total_crimes, on = "OT")
 
     px.set_mapbox_access_token(open(".mapbox_token").read())
@@ -76,18 +90,19 @@ def map(geo):
         mapbox_style = "streets",
         color_continuous_scale = ["#584B9F", "#22C4B3", "#FEFDBE", "#F39B29", "#A71B4B"]
     )
-    # fig = px.scatter_mapbox(
-    #     geo,
-    #     lat = geo.geometry.y,
-    #     lon = geo.geometry.x,
-    #     size = "size",
-    #     opacity = 0.75,
-    #     hover_name = "title",
-    #     hover_data = ["title", "place", "street", "date"],
-    #     zoom = 10,
-    #     color = "title",
-    #     mapbox_style = "streets"
-    # )
-    fig.write_html("figures/map.html")
+    fig.write_html("figures/districts.html")
+    fig = px.scatter_mapbox(
+        geo,
+        lat = geo.geometry.y,
+        lon = geo.geometry.x,
+        size = "size",
+        opacity = 0.75,
+        hover_name = "title",
+        hover_data = ["title", "place", "street", "date"],
+        zoom = 10,
+        color = "title",
+        mapbox_style = "streets"
+    )
+    fig.write_html("figures/points.html")
     # pio.write_image(fig, "figures/map.pdf", format = "pdf")
     #fig.show()

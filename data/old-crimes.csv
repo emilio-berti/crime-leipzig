@@ -6,14 +6,13 @@ date,time,title,place,street
 7/4/2024,4:00:00 PM,Graffiti,Schönefeld-Ost,Leupoldstrasse
 7/4/2024,6:50:00 AM,Graffiti,Connewitz,Scheffelstrasse
 7/4/2024,12:00:00 AM,Burglary in business,Grünau,Kiewer Straße
-7/3/2024,12:38:00 PM,Hit and run,Zentrum-West,Ranstädter Steinweg
 7/3/2024,12:00:00 AM,Burglary in business,Zentrum-West,
 7/3/2024,12:00:00 AM,Graffiti,Grimma,
 7/2/2024,12:00:00 AM,Grand theft auto,Beilrode,Sportplatzweg
 7/2/2024,12:00:00 AM,Grand theft auto,Beilrode: Kreischau,Eulenauer Straße
 7/2/2024,12:00:00 AM,Burglary in business,Gohlis-Mitte,
 7/2/2024,10:40:00 PM,Burglary in business,Delitzsch,Eisenbahnstrasse
-7/4/2024,5:30:00 AM,Threat with a weapon,Volkmarsdorf,Eisenbahnstrasse
+7/4/2024,5:30:00 AM,Assault,Volkmarsdorf,Eisenbahnstrasse
 7/4/2024,2:30:00 AM,Property damage,Connewitz,Biedermannstraße
 7/5/2024,12:30:00 PM,Property damage,Großzschocher,
 7/5/2024,10:30:00 AM,Anti-constitutional slogans,Lützschena-Stahmeln,
@@ -296,3 +295,92 @@ date,time,title,place,street
 9/5/2024,12:00:00 AM,Grand theft auto,Burghausen-rückmarsdorf,Sandberg
 9/6/2024,12:15:00 AM,Robbery,Zentrum-Süd,Wilhelm-Leuschner-Platz
 9/5/2024,9:25:00 PM,DUI,Grünau-Ost,Rosenweg
+8/4/2024,6:50:00 PM,Attempted homicide,Plagwitz,Antonienstraße 33
+9/6/2024,12:00:00 AM,Property damage,Engelsdorf,
+9/7/2024,12:55:00 AM,Hit and run,Lindenau,Hähnelstraße
+9/7/2024,12:00:00 AM,Grand theft auto,Probstheida,Katzstraße
+9/6/2024,1:00:00 PM,Theft,Lößnig,Hans-Marchwitza-Straße
+9/9/2024,12:00:00 AM,Grand theft auto,Zentrum-Nordwest,Wettiner Straße/Liviastraße
+9/9/2024,12:00:00 AM,Property damage,Connewitz,Wiedebach Passage
+9/7/2024,10:35:00 AM,Robbery,Schkeuditz,Ringstrasse
+9/7/2024,7:30:00 PM,Attempted robbery,Espenhain,Leipziger Straße
+9/8/2024,3:55:00 AM,Robbery,Stötteritz,Gletschersteinstraße
+9/8/2024,12:00:00 AM,Graffiti,Südvorstadt,Richard-Lehmann-Straße
+9/10/2024,3:25:00 AM,Burglary in business,Miltitz,
+9/10/2024,10:35:00 PM,Burglary in business,Seehausen,
+9/10/2024,2:00:00 PM,Theft,Schönefeld-Ost,Theklaer Straße
+9/11/2024,1:40:00 AM,Property damage,Gohlis-Nord,
+9/11/2024,12:00:00 AM,Burglary in business,Schleußig,
+9/10/2024,12:00:00 AM,Property damage,Probstheida,Südfriedhof
+9/11/2024,12:00:00 AM,Grand theft auto,Gohlis,Heinrich-Budde-Straße
+9/12/2024,3:26:00 AM,Burglary in business,Stötteritz,
+9/11/2024,5:30:00 PM,Narcotics,Lößnig,Johannes-R.-Becher-Straße
+9/7/2024,6:30:00 AM,Burglary in business,Böhlitz-Ehrenberg,
+9/13/2024,12:00:00 AM,Grand theft auto,Schönefeld-Abtnaundorf,Clara-Wieck-Straße
+9/14/2024,2:25:00 PM,Grand theft auto,Reudnitz-Thonberg,Riebeckstrasse
+9/14/2024,1:25:00 AM,Graffiti,Zentrum-Nordwest,Waldstraße
+9/15/2024,10:00:00 AM,Burglary in business,Sellerhausen-Stünz,
+9/14/2024,4:20:00 PM,Burglary in business,Zentrum,
+9/15/2024,12:00:00 AM,Burglary in business,Eutritzsch,
+9/13/2024,12:40:00 PM,Robbery,Connewitz,Richard-Lehmann-Straße 114
+9/13/2024,5:00:00 PM,Narcotics,Plagwitz,Erich-Zeigner-Allee
+9/6/2024,1:30:00 PM,Robbery,Zentrum,Petersstraße
+9/13/2024,2:00:00 AM,Narcotics,Altlindenau,Karl-Ferlemann-Straße
+9/16/2024,12:00:00 AM,Burglary in business,Zentrum-Süd,Dufourstraße
+9/16/2024,12:00:00 AM,Burglary in business,Seehausen,
+9/16/2024,12:00:00 AM,Burglary,Gaschwitz,
+9/17/2024,12:40:00 PM,Graffiti,Reudnitz-Thonberg,Breitkopfstrasse
+9/17/2024,12:00:00 PM,Theft,Neustadt-Neuschönefeld,Elsastraße
+9/18/2024,5:00:00 PM,Theft,Reudnitz-Thonberg,Eilenburger Straße
+9/18/2024,12:00:00 AM,Anti-constitutional slogans,Eutritzsch,Hohmannstrasse
+9/18/2024,5:30:00 PM,DUI,Zentrum,Liebigstrasse
+9/19/2024,12:00:00 AM,Grand theft auto,Neustadt-Neuschönefeld,Ludwigstrasse
+9/20/2024,12:30:00 AM,Assault,Volkmarsdorf,Eisenbahnstrasse
+9/20/2024,12:00:00 AM,Burglary in business,Zentrum-West,Martin-Luther-Ring
+9/20/2024,11:30:00 PM,Assault,Reudnitz-Thonberg,Reichpietschstraße
+9/21/2024,12:00:00 AM,Burglary in business,Schleußig,
+9/21/2024,12:00:00 AM,Grand theft auto,Schönefeld-Abtnaundorf,Robert-Blum-Straße
+9/21/2024,12:00:00 AM,Grand theft auto,Zentrum-West,Ferdinand-Lassalle-Straße
+9/23/2024,2:45:00 AM,Burglary in business,Leutzsch,
+9/23/2024,3:15:00 AM,Theft,Lindenau,Josephstrasse
+9/21/2024,1:25:00 AM,Robbery,Schönefeld-Abtnaundorf,Mockauer Straße
+9/22/2024,12:00:00 AM,Burglary,Markkleeberg,Zöbigkerstraße
+9/22/2024,12:00:00 AM,Burglary,Lützschena-Stahmeln,
+9/22/2024,12:00:00 AM,Burglary,Lützschena-Stahmeln,
+9/22/2024,12:00:00 AM,Burglary,Lützschena-Stahmeln,
+9/22/2024,12:00:00 AM,Burglary,Großzschocher,Anton-Zickmantel-Straße
+9/23/2024,12:00:00 AM,Burglary,Schkeuditz,
+9/23/2024,12:00:00 AM,Burglary in business,Anger-Crottendorf,
+9/22/2024,2:40:00 AM,Arson,Zentrum-Süd,Sachsenbrücke
+9/23/2024,5:30:00 AM,Burglary in business,Lößnig,Bornaische Straße
+9/23/2024,12:00:00 AM,Grand theft auto,Lößnig,Johannes-R.-Becher-Straße
+9/24/2024,4:30:00 AM,Property damage,Dölitz-Dösen,Leinestrasse
+9/23/2024,8:55:00 AM,Robbery,Zentrum,Burgstrasse
+9/24/2024,9:00:00 AM,Narcotics,Altlindenau,Calvisiusstraße
+9/24/2024,12:00:00 AM,Burglary in business,Volkmarsdorf,
+9/24/2024,10:00:00 PM,DUI,Plaußig-Portitz,Krätzbergstrasse
+9/19/2024,12:00:00 AM,Narcotics,Eutritzsch,
+9/25/2024,12:00:00 AM,Burglary in business,Neustadt-Neuschönefeld,Eisenbahnstrasse
+9/24/2024,10:00:00 PM,Burglary in business,Eilenburg,
+9/25/2024,4:55:00 PM,Burglary in business,Zentrum,Petersstraße
+9/27/2024,12:00:00 AM,Grand theft auto,Wiederitzsch,Schmidtstrasse
+9/27/2024,12:00:00 AM,Grand theft auto,Lindenthal,Weststrasse
+9/27/2024,12:00:00 AM,Burglary in business,Möckern,Georg-Schumann-Straße
+9/27/2024,12:00:00 AM,Burglary in business,Grünau-Nord,
+9/26/2024,12:00:00 AM,Burglary in business,Probstheida,Prager Straße
+9/27/2024,12:00:00 AM,Grand theft auto,Neustadt-Neuschönefeld,Lutherstrasse
+9/27/2024,12:00:00 AM,Grand theft auto,Volkmarsdorf,Roßbachstraße
+9/28/2024,12:00:00 AM,Burglary in business,Zentrum-Nordwest,
+9/28/2024,12:00:00 AM,Burglary,Gohlis-Mitte,
+9/30/2024,12:00:00 AM,Grand theft auto,Anger-Crottendorf,Mierendorffstrasse
+9/29/2024,12:00:00 AM,Property damage,Böhlitz-Ehrenberg,Buchener Straße
+9/28/2024,7:30:00 PM,Attempted robbery,Markkleeberg,Hauptstraße
+9/27/2024,12:05:00 PM,Burglary,Reudnitz-Thonberg,Köbisstrasse
+9/30/2024,3:25:00 AM,Burglary in business,Burghausen-Rückmarsdorf,
+9/30/2024,12:00:00 AM,Burglary in business,Leutzsch,
+9/30/2024,7:15:00 PM,Grand theft auto,Zentrum-Nordwest,Feuerbachstrasse
+9/30/2024,9:35:00 PM,Assault,Zentrum,Richard-Wagner-Straße
+9/30/2024,9:00:00 PM,Property damage,Connewitz,Biedermannstrasse
+9/30/2024,9:00:00 PM,Anti-constitutional slogans,Großzschocher,Huttenstraße
+9/30/2024,2:30:00 PM,Narcotics,Schönefeld-Ost,
+10/1/2024,5:50:00 PM,Robbery,Neustadt-Neuschönefeld,Lilienstraße
