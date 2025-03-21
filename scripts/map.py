@@ -15,8 +15,10 @@ else:
 if clean:
     # read crime csv --------
     d = pd.read_csv("data/crimes.csv")
-    places = d.place
     streets = d.street
+    places = d.district
+    places = [x.replace(' (', ', ').replace(')', '') for x in places]
+    places = ['Leipzig, ' + x if 'Leipzig' not in x else x for x in places]
 
     # locate addresses ----------
     geolocator = Nominatim(user_agent = "GetLoc")
@@ -24,46 +26,43 @@ if clean:
     lon = [None for x in places]
     for i in range(len(places)):
         print("  -", i + 1, "of", len(places))
-        if (streets[i] != streets[i]): #street is nan
-            coords = geolocator.geocode('Leipzig, ' + places[i]) #use only place
-        else:
-            coords = geolocator.geocode('Leipzig, ' + places[i] + ', ' + streets[i]) #use also street
-        if coords is None:
+        try:
+            if streets[i] != streets[i]:
+                coords = geolocator.geocode(places[i])
+            else:
+                coords = geolocator.geocode(places[i] + ', ' + streets[i])
+            if coords is None:
+                coords = geolocator.geocode(places[i])
+            if coords is None:
+                lat[i] = None
+                lon[i] = None
+            else:
+                lat[i] = coords[1][0]
+                lon[i] = coords[1][1]
+        except Exception as e:
             lat[i] = None
             lon[i] = None
-        else:
-            lat[i] = coords[1][0]
-            lon[i] = coords[1][1]
 
-    # remove locations that were not found ----------
-    print(" - Cannot find:")
-    while None in lat:
-        empty = lat.index(None)
-        print("   - " + d['place'][empty])
-        lat.pop(empty)
-        lon.pop(empty)
-        d = d.drop(empty)
-
-    # create geodataframe --------
-    geom = [Point(lon[i], lat[i]) for i in range(len(lat))]
-    d['geometry'] = geom
+    d.loc[:, 'latitude'] = pd.to_numeric(lat)
+    d.loc[:, 'longitude'] = pd.to_numeric(lon)
+    d = d.dropna(subset = 'latitude')
+    d.loc[:, 'geometry'] = [Point(d['longitude'][i], d['latitude'][i]) for i in d.index]
     d = gpd.GeoDataFrame(d, crs = "EPSG:4326")
-    s = [1 if x != x else 3 for x in d.street]
-    d['size'] = s
     d.to_file("data/crimes.shp")
 
 geo = gpd.read_file("data/crimes.shp")
+geo['size'] = 2
 px.set_mapbox_access_token(open(".mapbox_token").read())
 fig = px.scatter_mapbox(
     geo,
     lat = geo.geometry.y,
     lon = geo.geometry.x,
-    size = "size",
     opacity = 0.75,
-    hover_name = "title",
-    hover_data = ["title", "place", "street", "date", "people"],
+    size = "size",
+    hover_name = "crime",
+    hover_data = ["crime", "district", "street", "date"],
     zoom = 10,
-    color = "title",
+    color = "crime",
     mapbox_style = "satellite-streets"
 )
 pio.write_image(fig, "figures/map", format = "pdf")

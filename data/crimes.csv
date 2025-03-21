@@ -1,398 +1,329 @@
-date,time,title,place,street
-7/4/2024,12:25:00 PM,Narcotics,Leipzig,
-7/4/2024,8:50:00 AM,Burglary in business,Markkleeberg,Rathausstraße
-7/3/2024,12:00:00 AM,Grand theft auto,Grimma,Hohe Straße
-7/3/2024,12:00:00 AM,Grand theft auto,Wahren,Stammerstrasse
-7/4/2024,4:00:00 PM,Graffiti,Schönefeld-Ost,Leupoldstrasse
-7/4/2024,6:50:00 AM,Graffiti,Connewitz,Scheffelstrasse
-7/4/2024,12:00:00 AM,Burglary in business,Grünau,Kiewer Straße
-7/3/2024,12:00:00 AM,Burglary in business,Zentrum-West,
-7/3/2024,12:00:00 AM,Graffiti,Grimma,
-7/2/2024,12:00:00 AM,Grand theft auto,Beilrode,Sportplatzweg
-7/2/2024,12:00:00 AM,Grand theft auto,Beilrode: Kreischau,Eulenauer Straße
-7/2/2024,12:00:00 AM,Burglary in business,Gohlis-Mitte,
-7/2/2024,10:40:00 PM,Burglary in business,Delitzsch,Eisenbahnstrasse
-7/4/2024,5:30:00 AM,Assault,Volkmarsdorf,Eisenbahnstrasse
-7/4/2024,2:30:00 AM,Property damage,Connewitz,Biedermannstraße
-7/5/2024,12:30:00 PM,Property damage,Großzschocher,
-7/5/2024,10:30:00 AM,Anti-constitutional slogans,Lützschena-Stahmeln,
-7/5/2024,12:00:00 PM,Burglary in business,Mockau-Süd,Rosenowstrasse
-7/5/2024,12:00:00 PM,Burglary in business,Zentrum-Süd,Münzgasse
-7/5/2024,2:50:00 PM,Burglary in business,Dölitz-Dösen,Bornaische Straße
-7/5/2024,4:50:00 PM,Burglary in business,Dölitz-Dösen,Bornaische Straße
-7/6/2024,12:00:00 AM,Property damage,Wahren,Stahmelner Straße
-7/6/2024,2:30:00 AM,Assault,Leipzig,Markt
-7/7/2024,3:00:00 PM,Burglary in business,Leutzsch,
-7/8/2024,9:00:00 PM,Burglary in business,Dölzig,
-7/8/2024,3:10:00 PM,Property damage,Zentrum-Süd,
-7/5/2024,12:00:00 AM,Burglary in business,Torgau,
-4/9/2024,12:55:00 PM,Attempted homicide,Zentrum-Ost,Willy-Brandt-Platz
-7/6/2024,5:00:00 PM,Robbery,Zentrum-Ost,Willy-Brandt-Platz
-7/8/2024,12:00:00 PM,Burglary in business,Leutzsch,Georg-Schwarz-Straße
-7/8/2024,12:00:00 PM,Burglary in business,Zentrum-Südost,
-7/8/2024,12:00:00 PM,Graffiti,Eilenburg,
-7/9/2024,3:40:00 AM,Robbery,Leipzig,Gerberstrasse
-7/10/2024,6:00:00 PM,Robbery,Wiederitzsch,
-7/9/2024,12:00:00 PM,Anti-constitutional slogans,Brandis,
-7/10/2024,6:00:00 PM,Anti-constitutional slogans,Volkmarsdorf,Wurzner Straße
-7/11/2024,12:00:00 PM,Theft,Zentrum-Süd,Floßplatz
-7/7/2024,7:00:00 PM,Attempted robbery,Grünau-Mitte,Stuttgarter Allee
-7/11/2024,12:00:00 PM,Grand theft auto,Holzhausen,Walter-Heise-Straße
-7/12/2024,2:45:00 AM,Bank / ATM robbery,Brandis,Markt
-7/11/2024,5:50:00 PM,Assault,Grünau-Mitte,Ludwigsburger Straße
-7/11/2024,4:30:00 PM,Robbery in business,Dölitz-Dösen,
-7/11/2024,12:00:00 PM,Burglary in business,Mölkau,
-7/14/2024,11:30:00 PM,Homicide,Leipzig,Eisenbahnstrasse 30
-7/13/2024,12:00:00 PM,Property damage,Machern,Leipziger Straße 2
-7/12/2024,8:51:00 PM,Anti-constitutional slogans,Leipzig,Cäcilienstrasse
-7/13/2024,12:00:00 PM,Burglary in business,Plagwitz,Gießerstraße
-7/13/2024,12:00:00 PM,Burglary in business,Hayna,Biedermeier Beach
-7/14/2024,8:30:00 AM,Grand theft auto,Dölzig,Sperberstrasse
-7/13/2024,11:30:00 PM,DUI,Stötteritz,Ludolf-Colditz-Straße
-7/14/2024,12:00:00 PM,Burglary in business,Großzschocher,
-7/14/2024,12:00:00 PM,Burglary in business,Malkwitz,Feldstraße
-7/16/2024,1:10:00 AM,Property damage,Schkeuditz,Hallesche Straße
-7/12/2024,12:00:00 PM,Anti-constitutional slogans,Meusdorf,
-7/15/2024,8:10:00 PM,Narcotics,Zentrum-Ost,Sachsenseite
-7/16/2024,10:20:00 PM,Robbery,Grünau-Ost,Grünauer Allee 63
-7/17/2024,8:00:00 PM,DUI,Delitzsch,Hallesche Straße
-7/16/2024,12:00:00 PM,Grand theft auto,Bahren,Bahrener Ring
-7/16/2024,12:00:00 PM,Grand theft auto,Zeuckritz,Reudnitzer Straße
-7/16/2024,12:00:00 PM,Grand theft auto,Oschatz,Gabelsbergerstraße
-7/17/2024,8:00:00 AM,Burglary in business,Leipzig,Burgplatz
-7/15/2024,10:00:00 PM,Burglary in business,Connewitz,
-7/18/2024,2:38:00 AM,DUI,Leipzig,Zentrum
-7/17/2024,9:05:00 PM,Attempted homicide,Lößnig,Georg-Maurer-Straße
-7/18/2024,12:00:00 PM,Burglary,Meusdorf,Am Geleinholz
-7/17/2024,12:00:00 PM,Burglary in business,Kulkwitzer See,Seestraße
-7/18/2024,12:00:00 PM,Burglary in business,Möckern,Georg-Schumann-Straße
-7/18/2024,7:30:00 AM,Anti-constitutional slogans,Eilenburg,Friedrich-Ebert-Straße
-7/19/2024,12:30:00 PM,Property damage,Leipzig,Witzgallstraße 22
-7/8/2024,6:50:00 PM,Theft,Brühl,
-7/20/2024,12:24:00 AM,Arson,Thekla,Tauchaer Straße
-7/19/2024,3:30:00 PM,Burglary,Leipzig,Berliner Straße
-7/20/2024,12:26:00 AM,Anti-constitutional slogans,Stötteritz,Güntz-Park
-7/19/2024,8:00:00 PM,Anti-constitutional slogans,Torgau,Uferweg
-7/20/2024,12:00:00 AM,Theft,Probstheida,
-7/20/2024,12:00:00 AM,Theft,Zentrum-Südost,
-7/17/2024,2:20:00 AM,Burglary in business,Elsnig,
-7/20/2024,12:00:00 AM,Grand theft auto,Eutritzsch,Bitterfelder Straße
-7/19/2024,12:00:00 AM,Burglary in business,Plagwitz,Industriestraße
-7/22/2024,10:37:00 AM,DUI,Eutritzsch,Wittenberger/Heinickestrasse
-7/21/2024,3:00:00 AM,Grand theft auto,Espenhain,Otto-Heinig-Straße
-7/20/2024,12:00:00 AM,Graffiti,Schönefeld,Permoserstrasse
-7/23/2024,12:00:00 AM,Burglary in business,Bohlen,
-7/23/2024,12:00:00 AM,Burglary in business,Zentrum,
-7/13/2024,12:00:00 AM,Grand theft auto,Wahren,Hermundurenstrasse
-7/23/2024,10:45:00 PM,Property damage,Zentrum-Nordwest,
-7/23/2024,12:00:00 AM,Burglary in business,Zentrum-Ost,
-7/19/2024,12:30:00 AM,Property damage,Reudnitz-Thonberg,Witzgallstraße 22
-7/24/2024,12:00:00 AM,Grand theft auto,Schleußig,Bretschneiderstraße
-7/24/2024,12:00:00 AM,Burglary in business,Borna,Leipziger Straße
-7/24/2024,10:45:00 PM,DUI,Schkeuditz,
-7/24/2024,9:00:00 AM,Burglary in business,Belgern-Schildau,
-7/25/2024,1:45:00 AM,Grand theft auto,Belgern-Schildau,
-7/24/2024,12:00:00 AM,Property damage,Neustadt-Neuschönefeld,
-7/25/2024,1:00:00 AM,Grand theft auto,Torgau,
-7/25/2024,12:00:00 AM,Burglary in business,Schönefeld-Abtnaundorf,Heinrich-Schmidt-Straße
-7/25/2024,12:00:00 AM,Burglary in business,Markkleeberg,
-7/25/2024,6:05:00 PM,Arson,Lausen-Grünau,Zingster Straße
-7/14/2024,11:00:00 AM,Burglary in business,Eutritzsch,Dübener Landstrasse
-7/25/2024,8:00:00 PM,Robbery,Leutzsch,Georg-Schwarz-Straße
-7/26/2024,12:00:00 AM,Grand theft auto,Lausen-Grünau,An der Lautsche
-7/26/2024,12:00:00 AM,Anti-constitutional slogans,Colditz,Lastauer Straße
-7/26/2024,12:00:00 AM,Burglary in business,Volkmarsdorf,Wurzner Straße
-7/28/2024,2:00:00 AM,Robbery,Reudnitz-Thonberg,Lene-Voigt-Park
-7/28/2024,4:20:00 PM,Anti-constitutional slogans,Markkleeberg,Hafenstraße
-7/28/2024,6:00:00 AM,DUI,Altlindenau,Wielandstrasse
-7/27/2024,2:45:00 AM,Property damage,Plagwitz,Nonnenstrasse
-7/27/2024,12:00:00 AM,Burglary,Eutritzsch,Dieselstrasse
-7/27/2024,12:00:00 AM,Burglary,Mutzschen,
-7/27/2024,12:00:00 AM,Burglary in business,Zentrum-Nordwest,
-7/28/2024,7:30:00 PM,Burglary,Torgau,Eilenburger Straße
-7/29/2024,12:00:00 AM,Burglary in business,Grimma,
-7/29/2024,12:00:00 AM,Burglary in business,Zetrum,
-7/29/2024,12:00:00 AM,Burglary in business,Schleußig,
-7/29/2024,12:00:00 AM,Burglary in business,Volkmarsdorf,Eisenbahnstrasse
-7/29/2024,7:14:00 AM,Burglary in business,Colditz,Lastauer Straße
-7/29/2024,7:14:00 AM,Grand theft auto,Schkeuditz,Birkenweg
-7/30/2024,12:00:00 AM,Burglary in business,Plagwitz,
-7/29/2024,10:00:00 AM,DUI,Torgau,Dahlener Straße
-7/29/2024,5:50:00 AM,Assault,Zentrum,Georgiring
-7/31/2024,12:00:00 AM,Burglary in business,Knautkleeberg-Knauthain,Rehbacher Straße
-7/30/2024,11:25:00 PM,Arson,Lausen-Grünau,Zingster Straße
-8/1/2024,5:20:00 AM,Arson,Mockau,Friedrichshafener Straße
-8/1/2024,3:20:00 AM,Arson,Linda,
-7/31/2024,11:00:00 PM,Burglary in business,Reudnitz-Thonberg,Dresdner Straße 82
-7/31/2024,12:00:00 AM,Burglary in business,Böhlitz-Ehrenberg,Gutenbergstrasse
-7/31/2024,3:35:00 PM,Anti-constitutional slogans,Groitzsch,Sebastians Hof
-8/1/2024,8:10:00 PM,Attempted homicide,Borsdorf,Leipziger Straße
-8/1/2024,1:30:00 AM,Sexual assault,Zentrum-Südost,Straße des 18. Oktober
-8/1/2024,12:00:00 AM,Burglary,Miltitz,Rosenstrasse
-8/1/2024,12:00:00 AM,Burglary in business,Wiederitzsch,
-8/1/2024,4:15:00 PM,Assault,Zentrum,
-8/1/2024,12:00:00 AM,Burglary in business,Lindenau,
-6/29/2024,6:15:00 PM,Grand theft auto,Rackwitz,Roba Straße
-6/29/2024,1:00:00 AM,Graffiti,Zentrum-Süd,Arthur-Hoffmann-Straße
-6/29/2024,12:00:00 AM,Burglary in business,Leipzig,Schleußig
-6/29/2024,1:00:00 AM,Assault,Volkmarsdorf,Eisenbahnstrasse
-6/28/2024,7:00:00 PM,Anti-constitutional slogans,Langenreichenbach,Am Heidelbach
-6/25/2024,12:15:00 AM,Assault,Zentrum-Süd,Beethovenstrasse
-6/28/2024,12:00:00 AM,Anti-constitutional slogans,Böhlen,Böhlener Straße
-6/27/2024,6:00:00 PM,Burglary,Großdeuben,Hauptstraße
-6/26/2024,7:00:00 AM,Property damage,Zentrum-Süd,
-6/27/2024,11:10:00 PM,Anti-constitutional slogans,Probstheida,Chemnitzer Straße
-6/28/2024,12:25:00 AM,Anti-constitutional slogans,Eutritzsch,Brettschneidpark
-6/27/2024,12:00:00 AM,Anti-constitutional slogans,Hartmannsdorf-Knautnaundorf,Rehbacher Anger
-6/27/2024,11:00:00 PM,DUI,Großpösna,Grimmaische Straße
-6/27/2024,12:00:00 AM,Burglary in business,Knautkleeberg-Knauthain,
-6/26/2024,4:45:00 PM,Robbery,Colditz,Badergasse
-6/26/2024,12:00:00 AM,Burglary in business,Zentrum,Ritterstrasse
-6/26/2024,10:25:00 PM,Robbery,Neustadt,Dresdner Straße
-6/25/2024,12:00:00 AM,Burglary in business,Taucha,
-6/25/2024,7:35:00 PM,Anti-constitutional slogans,Grimma,Friedrich-Oettler-Straße
-6/25/2024,12:00:00 AM,Burglary in business,Volkmarsdorf,
-6/25/2024,12:00:00 AM,Property damage,Torgau,Mehderitzsch
-6/25/2024,12:00:00 AM,Burglary,Markkleeberg,Am Feriendorf
-6/20/2024,1:40:00 PM,Hit and run,Torgau,Leipziger Straße
-6/24/2024,1:00:00 AM,Property damage,Wurzen,Alte Bahnhofstraße
-6/24/2024,12:00:00 AM,Grand theft auto,Grünau-Ost,Dahlienstrasse
-6/24/2024,12:00:00 AM,Burglary in business,Grünau-Ost,
-6/24/2024,12:00:00 AM,Grand theft auto,Markkleeberg,Pater-Kolbe-Straße
-6/24/2024,12:00:00 AM,Anti-constitutional slogans,Paunsdorf,Zum Wäldchen
-6/22/2024,8:30:00 PM,Robbery,Sellerhausen,Torgauer Straße
-6/22/2024,1:45:00 AM,Robbery,Schönefeld,Adenaueralle
-6/23/2024,12:00:00 AM,Burglary in business,Schkeuditz,
-6/23/2024,11:40:00 PM,Burglary in business,Markranstädt,
-6/22/2024,3:15:00 PM,Assault,Zentrum-Ost,Willy-Brandt-Platz
-6/22/2024,1:00:00 PM,Graffiti,Liebertwolkwitz,Kirchstrasse
-6/21/2024,12:00:00 AM,Grand theft auto,Schönefeld,Scheumannstraße
-6/19/2024,1:25:00 PM,Burglary in business,Seehausen,
-6/20/2024,12:00:00 AM,Grand theft auto,Schönefeld,Taubestrasse
-6/20/2024,1:05:00 AM,Grand theft auto,Schönefeld,Kohlweg
-6/20/2024,12:00:00 AM,Burglary in business,Schleußig,
-6/18/2024,12:00:00 AM,Burglary in business,Zentrum,
-6/19/2024,12:00:00 AM,Grand theft auto,Wahren,Rittergutsstraße
-6/19/2024,12:00:00 AM,Grand theft auto,Markranstädt,Schmiedestrasse
-6/19/2024,12:00:00 AM,Grand theft auto,Eutritzsch,Salzmannstrasse
-6/19/2024,12:00:00 AM,Burglary in business,Arzberg,Köllitsch
-6/19/2024,12:00:00 AM,Burglary in business,Volkmarsdorf,Elisabethstrasse
-7/30/2024,12:00:00 AM,Anti-constitutional slogans,Reudnitz,
-8/2/2024,12:00:00 AM,Burglary in business,Mockrehna,
-8/3/2024,12:00:00 AM,Burglary in business,Volkmarsdorf,
-6/18/2024,12:00:00 AM,Grand theft auto,Delitzsch,Mauergasse
-6/18/2024,12:00:00 AM,Burglary in business,Markkleeberg,
-6/18/2024,12:00:00 AM,Anti-constitutional slogans,Zentrum,Richard-Wagner-Straße
-6/18/2024,12:00:00 AM,Graffiti,Zentrum-Nord,Berliner Straße
-6/18/2024,9:15:00 PM,Assault,Zentrum-Südost,Addis-Ababa-Platz
-8/4/2024,12:20:00 AM,Robbery,Reudnitz,Täubchenweg
-8/3/2024,10:05:00 PM,Attempted robbery,Borsdorf,Rathaus
-8/4/2024,11:30:00 AM,Assault,Grünau-Ost,Alte Salzstrasse
-8/4/2024,12:00:00 AM,Burglary in business,Grimma,Gerichtswiesen
-8/4/2024,10:40:00 PM,Arson,Großzschocher,Schönauer Straße
-8/6/2024,3:30:00 AM,Bank / ATM robbery,Anger,Gregor-Fuchs-Straße 31a
-8/5/2024,4:00:00 PM,Graffiti,Plagwitz,Markranstädter Straße
-8/5/2024,12:00:00 AM,Burglary in business,Torgau,Fischerstraße
-8/5/2024,10:45:00 PM,Narcotics,Dölitz,Helenenstrasse
-8/5/2024,12:00:00 AM,Grand theft auto,Leipzig-Ost,Einertstrasse
-8/5/2024,12:00:00 AM,Burglary,Reudnitz,Reichpietschstraße
-8/8/2024,12:00:00 AM,Burglary in business,Neustadt,Hermann-Liebmann-Straße
-8/8/2024,5:20:00 PM,Theft,Leutzsch,Rosenmüllerstraße
-8/9/2024,3:55:00 AM,Burglary in business,Stötteritz,
-8/9/2024,12:00:00 AM,Grand theft auto,Markranstädt,Parkstraße
-8/10/2024,1:10:00 AM,Arson,Lindenau,Aurelienstrasse
-8/10/2024,7:00:00 PM,Arson,Neulindenau,Ernst-Keil-Straße
-8/11/2024,12:25:00 PM,Assault,Neustadt,Eisenbahnstrasse
-8/10/2024,12:00:00 AM,Grand theft auto,Markkleeberg,Böhlener Straße
-8/10/2024,6:45:00 PM,Grand theft auto,Zentrum-Süd,Mahlmannstrasse
-8/10/2024,12:00:00 AM,Grand theft auto,Neustadt,Meißner Straße
-8/11/2024,10:55:00 PM,Anti-constitutional slogans,Stötteritz,Arnoldstrasse
-8/12/2024,11:50:00 PM,Graffiti,Anger,Zweinaundorfer Straße
-8/13/2024,12:00:00 AM,Burglary in business,Rückmarsdorf,Miltitzer Straße
-8/13/2024,8:20:00 AM,Attempted robbery,Leutzsch,Georg-Schwarz-Straße
-8/13/2024,12:00:00 AM,Burglary in business,Markkleeberg,Dösener Straße
-8/13/2024,7:15:00 PM,Assault,Zentrum,Müllerpark
-8/14/2024,12:12:00 AM,Arson,Grünau-Nord,Jupiterstrasse
-8/13/2024,5:08:00 PM,DUI,Lausen-Grünau,Zschochersche Allee
-8/14/2024,9:35:00 PM,Attempted homicide,Zentrum,Schwanenteich
-8/14/2024,6:19:00 AM,Burglary in business,Altlindenau,Georg-Schwarz-Straße
-8/14/2024,12:00:00 AM,Burglary in business,Plagwitz,
-8/14/2024,6:45:00 PM,Burglary,Grünau-Siedlung,
-8/15/2024,2:30:00 AM,Robbery,Connewitz,Kohrener Straße
-8/15/2024,12:00:00 AM,Burglary in business,Grünau-Mitte,
-8/16/2024,2:45:00 AM,Robbery,Gohlis-Süd,Georg-Schumann-Straße
-8/16/2024,10:09:00 AM,Assault,Zentrum-Süd,Dufourstrasse
-8/16/2024,8:45:00 PM,Anti-constitutional slogans,Zentrum,Augustusplatz
-8/17/2024,12:00:00 AM,Burglary,Neulindenau,Lützner Straße
-8/17/2024,8:12:00 PM,Anti-constitutional slogans,Probstheida,Völkerschlachtdenkmal
-8/19/2024,12:15:00 AM,Arson,Espenhain,Straße des Friedens
-8/16/2024,11:00:00 PM,Robbery,Eutritzsch,Eutritzscher Markt
-8/18/2024,9:50:00 PM,Burglary in business,Zentrum-Südost,Nürnberger Straße
-8/17/2024,3:30:00 AM,Robbery,Markleeberg,Schillerplatz
-8/19/2024,5:20:00 PM,Robbery,Schkeuditz,Turnerstraße 7
-8/19/2024,8:20:00 PM,Robbery,Zentrum-Nord,Willy-Brandt-Platz
-8/16/2024,5:00:00 AM,Burglary in business,Eutritzsch,
-8/19/2024,12:00:00 AM,Burglary in business,Möckern,
-8/19/2024,3:30:00 AM,Grand theft auto,Altlindenau,Merseburger Straße
-8/20/2024,5:00:00 AM,Arson,Connewitz,Bernhard-Göring-Straße
-8/19/2024,12:00:00 AM,Burglary in business,Grünau,Karlsruher Straße
-8/20/2024,12:00:00 AM,Burglary in business,Zentrum-Südost,
-8/21/2024,4:50:00 AM,Attempted robbery,Gohlis,Cöthner Straße
-8/20/2024,4:30:00 AM,Burglary in business,Lützschena-Stahmeln,
-8/21/2024,12:00:00 AM,Burglary in business,Volkmarsdorf,Hermann-Liebmann-Straße
-8/21/2024,2:10:00 AM,Attempted robbery,Leutzsch,Friesenstrasse
-8/21/2024,12:00:00 AM,Grand theft auto,Markkleeberg-Wachau,Gartenweg
-8/21/2024,9:40:00 PM,Arson,Grünau-Mitte,Stuttgarter Allee
-8/22/2024,3:30:00 AM,Graffiti,Zentrum-Ost,Querstraße
-8/22/2024,12:00:00 AM,Bank / ATM robbery,Grünau,Ludwigsburger Straße
-8/22/2024,12:00:00 AM,Burglary in business,Burghausen-Rückmarsdorf,
-8/22/2024,12:00:00 AM,Graffiti,Zentrum,Augustusplatz
-8/22/2024,10:45:00 PM,Attempted homicide,Markranstädt,
-8/22/2024,10:50:00 AM,Robbery,Probstheida,Prager Straße
-8/23/2024,2:30:00 AM,Robbery,Schkeuditz,Bahnhofstrasse
-8/23/2024,12:00:00 AM,Grand theft auto,Neustadt,Lutherstrasse
-8/23/2024,12:00:00 AM,Grand theft auto,Schönefeld,Ploßstraße
-8/24/2024,1:45:00 AM,Arson,Grünau-Mitte,Mannheimer Straße
-8/25/2024,12:00:00 AM,Grand theft auto,Zentrum,Große Fleischergasse
-8/25/2024,5:10:00 PM,Burglary in business,Markkleeberg,
-8/26/2024,1:30:00 AM,Property damage,Grünau,Uranusstrasse
-8/25/2024,5:04:00 PM,Theft,Neustadt,Konradstrasse
-8/26/2024,12:00:00 AM,Burglary in business,Engelsdorf,
-8/26/2024,3:45:00 PM,Robbery,Goerdelerring,
-8/26/2024,12:00:00 AM,Burglary in business,Schönau,Hafenstrasse
-8/25/2024,6:30:00 PM,Sexual assault,Lausen,Straße am See
-8/27/2024,4:48:00 PM,DUI,Lausen-Grünau,Ratzelstraße
-8/27/2024,7:33:00 PM,Assault,Neustadt-Neuschönefeld,Eisenbahnstrasse
-8/27/2024,4:04:00 PM,Anti-constitutional slogans,Gohlis-Nord,Hannoversche Straße
-8/27/2024,8:45:00 PM,Burglary in business,Zentrum-West,
-8/28/2024,12:00:00 AM,Burglary in business,Plagwitz,
-8/25/2024,11:15:00 PM,Robbery,Volkmarsdorf,Idastrasse
-8/28/2024,10:11:00 AM,Assault,Eutritzsch,Delitzscher Straße
-8/28/2024,1:40:00 AM,Burglary in business,Grünau-Mitte,
-8/28/2024,12:00:00 AM,Grand theft auto,Zentrum-Süd,Schwägerichenstrasse
-8/28/2024,12:00:00 AM,Burglary in business,Leutzsch,
-8/28/2024,12:00:00 AM,Anti-constitutional slogans,Altlindenau,Rietschelstrasse
-8/29/2024,12:00:00 AM,Grand theft auto,Stötteritz,Breslauer Straße
-8/29/2024,12:00:00 AM,Grand theft auto,Stötteritz,Breslauer Straße
-8/29/2024,12:00:00 AM,Grand theft auto,Röcknitz,Am Bauhof
-8/29/2024,12:00:00 AM,Property damage,Grünau-Ost,Alte Salzstrasse
-8/29/2024,8:35:00 PM,Anti-constitutional slogans,Lindenau,Karl-Heine-Straße
-8/29/2024,12:00:00 AM,Burglary in business,Altlindenau,
-8/30/2024,10:00:00 PM,Anti-constitutional slogans,Reudnitz-Thonberg,Cäcilienstrasse
-8/31/2024,12:00:00 AM,Anti-constitutional slogans,Lausen-Grünau,Brackestrasse
-9/1/2024,2:00:00 AM,Robbery,Probstheida,Prager Straße
-9/2/2024,12:00:00 AM,Burglary in business,Grünau-Ost,
-9/2/2024,12:00:00 AM,Grand theft auto,Marienbrunn,Triftweg
-9/3/2024,12:00:00 AM,Grand theft auto,Zentrum-West,Friedrich-Ebert-Straße
-9/2/2024,3:30:00 PM,Burglary in business,Zentrum,
-9/4/2024,12:30:00 AM,Graffiti,Connewitz,Bornaische Straße
-9/4/2024,2:25:00 AM,Graffiti,Reudnitz-Thonberg,Lipsiusstrasse
-9/3/2024,10:00:00 PM,Theft,Zentrum-Nord,Willy-Brandt-Platz
-9/4/2024,12:00:00 AM,Burglary in business,Mockau-Süd,Dortmunder Strasse
-9/5/2024,12:00:00 AM,Grand theft auto,Leutzsch,Mathiesenstrasse
-9/5/2024,12:00:00 AM,Grand theft auto,Grünau-Mitte,Breisgaustraße
-9/5/2024,12:00:00 AM,Burglary in business,Schleußig,Industriestrasse
-9/5/2024,12:00:00 AM,Grand theft auto,Burghausen-rückmarsdorf,Sandberg
-9/6/2024,12:15:00 AM,Robbery,Zentrum-Süd,Wilhelm-Leuschner-Platz
-9/5/2024,9:25:00 PM,DUI,Grünau-Ost,Rosenweg
-8/4/2024,6:50:00 PM,Attempted homicide,Plagwitz,Antonienstraße 33
-9/6/2024,12:00:00 AM,Property damage,Engelsdorf,
-9/7/2024,12:55:00 AM,Hit and run,Lindenau,Hähnelstraße
-9/7/2024,12:00:00 AM,Grand theft auto,Probstheida,Katzstraße
-9/6/2024,1:00:00 PM,Theft,Lößnig,Hans-Marchwitza-Straße
-9/9/2024,12:00:00 AM,Grand theft auto,Zentrum-Nordwest,Wettiner Straße/Liviastraße
-9/9/2024,12:00:00 AM,Property damage,Connewitz,Wiedebach Passage
-9/7/2024,10:35:00 AM,Robbery,Schkeuditz,Ringstrasse
-9/7/2024,7:30:00 PM,Attempted robbery,Espenhain,Leipziger Straße
-9/8/2024,3:55:00 AM,Robbery,Stötteritz,Gletschersteinstraße
-9/8/2024,12:00:00 AM,Graffiti,Südvorstadt,Richard-Lehmann-Straße
-9/10/2024,3:25:00 AM,Burglary in business,Miltitz,
-9/10/2024,10:35:00 PM,Burglary in business,Seehausen,
-9/10/2024,2:00:00 PM,Theft,Schönefeld-Ost,Theklaer Straße
-9/11/2024,1:40:00 AM,Property damage,Gohlis-Nord,
-9/11/2024,12:00:00 AM,Burglary in business,Schleußig,
-9/10/2024,12:00:00 AM,Property damage,Probstheida,Südfriedhof
-9/11/2024,12:00:00 AM,Grand theft auto,Gohlis,Heinrich-Budde-Straße
-9/12/2024,3:26:00 AM,Burglary in business,Stötteritz,
-9/11/2024,5:30:00 PM,Narcotics,Lößnig,Johannes-R.-Becher-Straße
-9/7/2024,6:30:00 AM,Burglary in business,Böhlitz-Ehrenberg,
-9/13/2024,12:00:00 AM,Grand theft auto,Schönefeld-Abtnaundorf,Clara-Wieck-Straße
-9/14/2024,2:25:00 PM,Grand theft auto,Reudnitz-Thonberg,Riebeckstrasse
-9/14/2024,1:25:00 AM,Graffiti,Zentrum-Nordwest,Waldstraße
-9/15/2024,10:00:00 AM,Burglary in business,Sellerhausen-Stünz,
-9/14/2024,4:20:00 PM,Burglary in business,Zentrum,
-9/15/2024,12:00:00 AM,Burglary in business,Eutritzsch,
-9/13/2024,12:40:00 PM,Robbery,Connewitz,Richard-Lehmann-Straße 114
-9/13/2024,5:00:00 PM,Narcotics,Plagwitz,Erich-Zeigner-Allee
-9/6/2024,1:30:00 PM,Robbery,Zentrum,Petersstraße
-9/13/2024,2:00:00 AM,Narcotics,Altlindenau,Karl-Ferlemann-Straße
-9/16/2024,12:00:00 AM,Burglary in business,Zentrum-Süd,Dufourstraße
-9/16/2024,12:00:00 AM,Burglary in business,Seehausen,
-9/16/2024,12:00:00 AM,Burglary,Gaschwitz,
-9/17/2024,12:40:00 PM,Graffiti,Reudnitz-Thonberg,Breitkopfstrasse
-9/17/2024,12:00:00 PM,Theft,Neustadt-Neuschönefeld,Elsastraße
-9/18/2024,5:00:00 PM,Theft,Reudnitz-Thonberg,Eilenburger Straße
-9/18/2024,12:00:00 AM,Anti-constitutional slogans,Eutritzsch,Hohmannstrasse
-9/18/2024,5:30:00 PM,DUI,Zentrum,Liebigstrasse
-9/19/2024,12:00:00 AM,Grand theft auto,Neustadt-Neuschönefeld,Ludwigstrasse
-9/20/2024,12:30:00 AM,Assault,Volkmarsdorf,Eisenbahnstrasse
-9/20/2024,12:00:00 AM,Burglary in business,Zentrum-West,Martin-Luther-Ring
-9/20/2024,11:30:00 PM,Assault,Reudnitz-Thonberg,Reichpietschstraße
-9/21/2024,12:00:00 AM,Burglary in business,Schleußig,
-9/21/2024,12:00:00 AM,Grand theft auto,Schönefeld-Abtnaundorf,Robert-Blum-Straße
-9/21/2024,12:00:00 AM,Grand theft auto,Zentrum-West,Ferdinand-Lassalle-Straße
-9/23/2024,2:45:00 AM,Burglary in business,Leutzsch,
-9/23/2024,3:15:00 AM,Theft,Lindenau,Josephstrasse
-9/21/2024,1:25:00 AM,Robbery,Schönefeld-Abtnaundorf,Mockauer Straße
-9/22/2024,12:00:00 AM,Burglary,Markkleeberg,Zöbigkerstraße
-9/22/2024,12:00:00 AM,Burglary,Lützschena-Stahmeln,
-9/22/2024,12:00:00 AM,Burglary,Lützschena-Stahmeln,
-9/22/2024,12:00:00 AM,Burglary,Lützschena-Stahmeln,
-9/22/2024,12:00:00 AM,Burglary,Großzschocher,Anton-Zickmantel-Straße
-9/23/2024,12:00:00 AM,Burglary,Schkeuditz,
-9/23/2024,12:00:00 AM,Burglary in business,Anger-Crottendorf,
-9/22/2024,2:40:00 AM,Arson,Zentrum-Süd,Sachsenbrücke
-9/23/2024,5:30:00 AM,Burglary in business,Lößnig,Bornaische Straße
-9/23/2024,12:00:00 AM,Grand theft auto,Lößnig,Johannes-R.-Becher-Straße
-9/24/2024,4:30:00 AM,Property damage,Dölitz-Dösen,Leinestrasse
-9/23/2024,8:55:00 AM,Robbery,Zentrum,Burgstrasse
-9/24/2024,9:00:00 AM,Narcotics,Altlindenau,Calvisiusstraße
-9/24/2024,12:00:00 AM,Burglary in business,Volkmarsdorf,
-9/24/2024,10:00:00 PM,DUI,Plaußig-Portitz,Krätzbergstrasse
-9/19/2024,12:00:00 AM,Narcotics,Eutritzsch,
-9/25/2024,12:00:00 AM,Burglary in business,Neustadt-Neuschönefeld,Eisenbahnstrasse
-9/24/2024,10:00:00 PM,Burglary in business,Eilenburg,
-9/25/2024,4:55:00 PM,Burglary in business,Zentrum,Petersstraße
-9/27/2024,12:00:00 AM,Grand theft auto,Wiederitzsch,Schmidtstrasse
-9/27/2024,12:00:00 AM,Grand theft auto,Lindenthal,Weststrasse
-9/27/2024,12:00:00 AM,Burglary in business,Möckern,Georg-Schumann-Straße
-9/27/2024,12:00:00 AM,Burglary in business,Grünau-Nord,
-9/26/2024,12:00:00 AM,Burglary in business,Probstheida,Prager Straße
-9/27/2024,12:00:00 AM,Grand theft auto,Neustadt-Neuschönefeld,Lutherstrasse
-9/27/2024,12:00:00 AM,Grand theft auto,Volkmarsdorf,Roßbachstraße
-9/28/2024,12:00:00 AM,Burglary in business,Zentrum-Nordwest,
-9/28/2024,12:00:00 AM,Burglary,Gohlis-Mitte,
-9/30/2024,12:00:00 AM,Grand theft auto,Anger-Crottendorf,Mierendorffstrasse
-9/29/2024,12:00:00 AM,Property damage,Böhlitz-Ehrenberg,Buchener Straße
-9/28/2024,7:30:00 PM,Attempted robbery,Markkleeberg,Hauptstraße
-9/27/2024,12:05:00 PM,Burglary,Reudnitz-Thonberg,Köbisstrasse
-9/30/2024,3:25:00 AM,Burglary in business,Burghausen-Rückmarsdorf,
-9/30/2024,12:00:00 AM,Burglary in business,Leutzsch,
-9/30/2024,7:15:00 PM,Grand theft auto,Zentrum-Nordwest,Feuerbachstrasse
-9/30/2024,9:35:00 PM,Assault,Zentrum,Richard-Wagner-Straße
-9/30/2024,9:00:00 PM,Property damage,Connewitz,Biedermannstrasse
-9/30/2024,9:00:00 PM,Anti-constitutional slogans,Großzschocher,Huttenstraße
-9/30/2024,2:30:00 PM,Narcotics,Schönefeld-Ost,
-10/1/2024,5:50:00 PM,Robbery,Neustadt-Neuschönefeld,Lilienstraße
-10/2/2024,12:00:00 AM,Burglary in business,Schkeuditz,
-10/2/2024,12:00:00 AM,Burglary in business,Zentrum,
-10/2/2024,12:00:00 AM,Graffiti,Grünau-Ost,
-10/3/2024,12:00:00 AM,Grand theft auto,Plagwitz,Merseburger Straße
-10/3/2024,12:00:00 AM,Grand theft auto,Markkleeberg,Montessoristraße
-10/3/2024,12:00:00 AM,Burglary in business,Markranstädt,
-10/2/2024,9:25:00 PM,Robbery,Thekla,Stollberger Straße
-10/4/2024,12:00:00 AM,Grand theft auto,Grünau-Siedlung,Brabacher Straße
-10/5/2024,12:00:00 PM,Narcotics,Zentrum-Nord,Gerberstrasse
-10/5/2024,9:00:00 PM,Burglary in business,Großzschocher,Dieskaustraße
-10/5/2024,10:00:00 PM,Assault,Zentrum,Kleine Fleischergasse
-10/6/2024,12:00:00 AM,Burglary in business,Grünau-Nord,
+,date,district,street,crime
+0,17.03.2025,Delitzsch,F.C.-Weiskopf-Straße,Unfallflucht - Zeugenaufruf
+1,20.03.2025,Leipzig (Wiederitzsch),Delitzscher Landstraße/Südtangente,Verkehrsunfall in Wiederitzsch
+2,20.03.2025,Leipzig (Wahren),Travniker Straße/Linkelstraße,Unfall in Wahren
+3,04.02.25,Leipzig (Grünau-Nord),Alte Burghausener Straße (Wendehaltestelle),Gefährlicher Eingriff in den Straßenverkehr
+4,04.02.2025,Grimma,A14 - Tank- und Rastanlage Muldental Süd,Verkehrsunfall mit leicht verletzter Person
+5,04.02.2025,Bennewitz,K8367,Verkehrsunfall mit einer schwer verletzten Person
+6,05.02.2025,Leipzig (Südvorstadt),Karl-Liebknecht-Straße,Verfolgungsfahrt endet mit Haft
+7,04.02.2025,Leipzig (Neustadt-Neuschönefeld),Ludwig-Erhard-Str. / Ranftsche Gasse,Radfahrer verletzt und Pkw flüchtet
+8,04.02.2025,Geithain,Straße der Deutschen Einheit,Trunkenheitsfahrt am frühen Morgen
+9,25.02.2025,Leipzig (Volkmarsdorf),,Durchsuchungen von Gewerbeeinrichtungen
+10,24.02.2025,BAB 14,Richtung Halle/Saale,Lkw mit mehreren Verstößen festgestellt
+11,25.02.2025,Grimma,Wurzener Straße,Tatverdächtiger begeht mehrere Straftaten
+12,24.02.2025,Leipzig (Knautkleeberg-Knauthain),,Fassade beschädigt
+13,25.02.2025,Delitzsch,Securiusstraße,Wohnungseinbruchdiebstahl
+14,polizeibekannt: 24.02.2025,Schkeuditz,An der Autobahn,Verfassungsfeindliche Graffiti
+15,25.02.2025,Leipzig (Connewitz),S-Bahnhof Connewitz/ Straßenbahnhaltestellte,Graffito mit politischem Bezug
+16,26.02.2025,Leipzig (Altlindenau),,Einbruch in Schmuckgeschäft
+17,03.03.2025,Leipzig (Leutzsch),,Einbruch in ein Büro
+18,02.03.2025,Leipzig (Zentrum),Wächterstraße,Diebstahl eines Seat
+19,04.03.2025 17:55 Uhr,Taucha,Sommerfelder Straße,Mercedes fährt gegen Bäume
+20,04.03.2025,Leipzig Möckernsche Allee / Waldstraße,,Kollision mit Straßenbahn
+21,15.02.2025,Leipzig (Mölkau),Moltrechtstraße,Brand in Mölkau
+22,13.02.2025,Wurzen,,Einbruch in Friseursalon
+23,Zeit:13.02.2025,Rötha,Friedrich-Engels-Ring,Falscher Polizeibeamter
+24,14.02.2025,Leipzig (Schönau),Garskestraße,Brand in Mehrfamilienhaus
+25,15.02.2025,Bundesautobahn 14,"km 73,5 in Richtung Magdeburg (Höhe Abfahrt Leipzig-Ost)",Zeugenaufruf nach Verkehrsunfall
+26,17.02.2025,Colditz (Schönbach),Alte Dorfstraße,Brand eines Nebengebäudes
+27,28.02.2025,Leipzig (Connewitz),Am Teilungswehr,Brand einer Baumaschine – Zeugenaufruf
+28,28.02.2025,Leipzig (Volkmarsdorf),Eisenbahnstraße,Auseinandersetzung in der Eisenbahnstraße
+29,01.03.2025,Leipzig (Eutritzsch),Delitzscher Straße,Betrunkener Autofahrer fährt in Haltestelle
+30,01.03.2025,Markkleeberg,Am Bahnhof,Sprengung eines Fahrkartenautomaten
+31,02.03.2025,Otterwisch (Großbuch),Dorfstraße,Verstorbener nach Scheunenbrand in Otterwisch identifiziert
+32,12.03.2025,Markranstädt,,Einbruch in Bestattungsunternehmen
+33,12.03.2025,Zwenkau,Leipziger Straße,Diebstahl eines Pkw Grand Cherokee
+34,13.03.2025,Leipzig (Gohlis-Süd),Richterplatz,14-Jähriger durch Unbekannte beraubt
+35,13.03.2025,Markranstädt,Nordstraße,Brand in einer Werkshalle
+36,13.03.2025,Eilenburg,,Falsche Polizeibeamte
+37,06.02.2025,Belgern (Puschwitz),,Sprengung dreier Bomben
+38,05.02.2025,Leipzig (Anger-Crottendorf),Zweinaundorfer Straße,Drogenhandel im Spätverkauf
+39,06.02.2025,Leipzig (Volkmarsdorf),"Haltestelle ""Torgauer Platz""",Verhetzende Beleidigung - Tatverdächtiger gestellt
+40,05.02.2025,BAB 38,,Planeschlitzen
+41,06.02.2025,Leipzig (Connewitz),Wolfgang-Heinze-Straße,Brand in einer Wohnung
+42,04.02.2025,Markranstädt,Oststraße,Wohnungseinbruch
+43,05.02.2025,Leipzig (Reudnitz-Thonberg),Riebeckstraße / Stötteritzer Straße,Unerlaubt vom Unfallort entfernt
+44,06.02.2025,Grimma (Zschoppach),,Einbrecher überrascht
+45,06.02.2025,Leipzig (Zentrum-Nordwest),Kickerlingsberg,Gartenlaubenbrand
+46,05.02.2025,Zwenkau,,Einbruch in Firmengelände
+47,07.02.2025,Leipzig (Kleinzschocher),Diezmannstraße,Gleisbett mit Straße verwechselt
+48,13.03.2025 09:00 bis 16:00 Uhr,Leipzig,Torgauer Straße,Drogenerkennung im Straßenverkehr
+49,13.03.2025,Leipzig (Leutzsch),,Einbruch in einen Kindergarten
+50,14.03.2025,Leipzig (Eutritzsch),Maximilianallee,Verkehrsunfall auf der Maximilianallee
+51,17.02.2025,Leipzig (Grünau-Mitte),Stuttgarter Allee,Branddelikt - Tatverdächtige gestellt
+52,17.02.2025,Leipzig; (Böhlitz-Ehrenberg),Obere Mühlenstraße,Fahrgast schwer verletzt - Zeugenaufruf
+53,15.02.2025,Leipzig (Plagwitz),Erich-Zeigner-Allee,Einbruch in Konditorei
+54,24.02.2025,Leipzig (Schönefeld-Abtnaundorf),Schönefelder Allee Höhe Hausnummer 12,Raub im Leipziger Osten - Zeugenaufruf
+55,23.02.2025,Leipzig (Plagwitz),Gießerstraße,Diebstahl eines Mercedes
+56,22.09.2025,Frohburg,,Einbruch in Jugendclub
+57,24.02.2025,Leipzig (Schönefeld-Abtnaundorf),Unterführung S-Bahnhaltestelle Leipzig-Nord / Volbedingstraße / Mockauer Straße / Maximilianallee,=Zeugenaufruf nach Verkehrsunfall - Radfahrer flüchtet unerkannt
+58,09.02.2025,Bad Düben,,Verstoß gegen das Sprengstoffgesetz
+59,10.02.2025,Leipzig (Zentrum-Ost),Lagerhofstraße,Leblose Person aufgefunden
+60,07.02.2025,Markkleeberg,,Einbruch in Apotheke
+61,28.02.2025,Leipzig (Neustadt-Neuschönefeld),Ludwigstraße,Graffitisprayer besprüht Zeugen mit Farbe
+62,27.02.2025,Leipzig (Plagwitz),,Einbruch in Verein und Bistro
+63,27.02.2025,Leipzig (Gohlis-Nord),Bremer Straße,Fest installiertes Navigationssystem und Lenkrad gestohlen
+64,05.02.2025 (polizeibekannt),Leipzig,,Tatverdächtige nach Diebstählen an Leipziger Hochschulen gestellt
+65,19.02.2025,Ort:Leipzig (Neulindenau),Saarländer Straße,Brand eines Nebengelasses
+66,19.02.2025,Parthenstein (Großsteinberg),Am See/Pomßener Landstraße,Schwerer Verkehrsunfall mit drei Verletzten
+67,19.02.2025,Eilenburg,,Einbruch in Bäckerei
+68,23.02.2025,Leipzig (Neustadt-Neuschönefeld),Stadtteilpark Rabet,Auseinandersetzung im Stadtteilpark Rabet
+69,23.02.2025,Leipzig (Kleinzschocher),Antonienstraße,Brand einer Gartenlaube
+70,22.02.2025,Leipzig (Zentrum),Richard-Wagner-Straße/ Höhe Höfe am Brühl,Raubdelikt
+71,21.02.2025,Leipzig (Grünau-Nord),Jupiterstraße,Auseinandersetzung in Grünau
+72,26.02.2025,Markkleeberg,Städtelner Straße 54,Präventionsmobil der Leipziger Polizei in Markkleeberg
+73,31.01.2025,Schkeuditz (Dölzig),Döbichauer Straße,Brand in Werkhalle
+74,31.01.2025,Geithain,,Einbruch in Einfamilienhaus
+75,31.01.2025,Schönwölkau,K7449,Verkehrsunfall mit zwei Verletzten
+76,02.02.2025,Leipzig (Lößnig),Willi-Bredel-Straße,Kellerbrand
+77,02.02.2025,Leipzig (Leutzsch),Vierackerwiesen,Tatverdächtiger bei Einbruch gestellt
+78,01.02.2025,Leipzig (Sellerhausen-Stünz),Zum Kleingartenpark,Einbruch in Wohnung
+79,02.02.2025,Leipzig (Lindenau),Karl-Heine-Straße,Körperverletzung unter Konzertbesuchern
+80,31.01.2025,Leipzig (Sellerhausen-Stünz),,Sachbeschädigung an Kirche
+81,02.02.2025,Leipzig (Plagwitz),Antonienstraße,Wahlplakate beschädigt – Tatverdächtiger gestellt
+82,03.02.2025,Leipzig (Neulindenau),Saalfelder Straße,Brand in einem Technikraum
+83,16.01.2025,Trebsen/Mulde,Seilergasse,Radfahrerin bei Unfall verletzt - Zeugenaufruf
+84,04.02.2025,Leipzig (Plagwitz),Holbeinstraße 38b,Seniorin ausgeraubt
+85,06.02.2025,Leipzig (Leutsch),,Einbruch in Autohaus
+86,05.02.2025,Leipzig (Gohlis-Mitte),Hans-Oster-Straße,Nach Verkehrsunfall eingeschlafen
+87,06.02.2025,K7449 Gollmenz in Richtung Badrina,,Verkehrsunfall mit leicht verletzter Person
+88,11.02.2025,Leipzig (Möckern),Georg-Schumann-Straße,Ausländerfeindliche Rufe - Tatverdächtiger gestellt
+89,10.02.2025,Leipzig (Reudnitz-Thonberg),Dresdner Straße,Rucksack in Brand gesetzt
+90,10.02.2025,Doberschütz,B87,Verkehrsunfall mit drei verletzten Personen
+91,07.02.2025,Wermsdorf,,Buntmetalldiebstahl
+92,10.02.2025,Leipzig (Volkmarsdorf),Wurzner Straße,Audifahrer verursacht mehrere Unfälle
+93,09.02.2025,Leipzig (Zentrum-Süd),,Einbruch in Restaurant
+94,14.02.2025,Leipzig (Zentrum-Ost),Sachsenseite,BMW gestohlen – Tatverdächtige ermittelt
+95,11.02.2025,Leipzig (Eutritzsch),Maximilianallee,Elektroladekabel entwendet
+96,18.02.2025,Leipzig (Zentrum-Ost),,Sachbeschädigung durch ein Graffito
+97,19.02.2025,Leipzig (Schönefeld-Abtnaundorf),Gorkistraße,Einbruch in Geschäft
+98,10.02.2025,Leipzig (Zentrum-Ost),Lagerhofstraße,Leblose Person aufgefunden
+99,zwischen 11.02.2025,Leipzig (Marienbrunn),,Einbruch in Apotheke
+100,14.02.2025,Leipzig (Plagwitz),Nonnenstraße,Einbrüche in Büros in der Nonnenstraße
+101,17.02.2025,Leipzig (Plaußig-Portitz),BMW-Allee,Fahrzeugdiebstähle
+102,17.02.2025,Delitzsch,Am Karl-Marx-Platz,Falsche Polizeibeamtin
+103,15.02.2025,Leipzig (Grünau-Mitte),,Einbruch in Schmuckgeschäft
+104,17.02.2025 10:00 Uhr,Leipzig (Lößnig),Nibelungenring,Betrug
+105,17.02.2025,Leipzig (Lindenau),Helmholtzstraße,Brand in Kunstatelier
+106,15.02.2025,Leipzig (Connewitz),Bernhard-Göring-Straße,Sachbeschädigung an Fahrzeug
+107,18.03.2025,Leipzig (Connewitz),Stockartstraße,Brandstiftung an Mehrfamilienhaus
+108,17.03.2025,Leipzig (Grünau-Mitte),Ringstraße,Küchenbrand
+109,10.03.2025,Leipzig (Engelsdorf),,Einbruch in Lagerhalle
+110,16.03.2025,Leipzig (Lausen-Grünau),Lausener Dorfplatz,VW Multivan gestohlen
+111,17.03.2025,Wurzen,B6 / S11,Verkehrsunfall mit drei verletzten Personen
+112,09.03.2025,Leipzig (Zentrum-West),Marschnerstraße,Sachbeschädigung an Enforcement-Trailer
+113,08.03.2025,Leipzig (Volkmarsdorf),Eisenbahnstraße,Einbruch in Spätverkauf
+114,09.03.2025,Leipzig (Liebertwolkwitz),Bornaer Straße/S38,Verkehrsunfall mit mehreren Verletzten
+115,08.03.2025,Leipzig (Zentrum),Universitätsstraße/Roßplatz,Verkehrsunfall mit verletztem Motorradfahrer
+116,09.03.2025,Leipzig (Probstheida),,Hubschraubereinsatz während Regionalligaspiel
+117,19.02.2025,Leipzig (Paunsdorf),Paunsdorfer Allee,Ladendiebe gestellt
+118,20.02.2025,Elsnig (Vogelgesang),Mittelstraße / Kreuzung Kiebitzweg,Zwei Personen bei Unfall schwer verletzt
+119,30.01.2025,Leipzig (Zentrum-Süd),Haydnstraße,Wohnungseinbruch
+120,20.02.2025,Leipzig (Wiederitzsch),Dombrowskistraße,Einbruch in Einfamilienhaus
+121,20.02.2025,Leipzig (Zentrum-West),Martin-Luther-Ring 7-9,Verkehrsunfallflucht - Zeugenaufruf
+122,19.02.2025,Oschatz,Nossener Straße (Parkplatz Edeka),Unerlaubtes Entfernen vom Unfallort - Zeugenaufruf
+123,08.02.2025,Leipzig (Lausen-Grünau),Königsteinstraße,Brand in Mehrfamilienhaus
+124,08.02.2025,Leipzig (Plagwitz),Wachsmuthstraße und Gießerstraße,Tatverdächtiger Sprayer gestellt
+125,08.02.2025,Wiedemar,,Schwerer Unfall auf der Bundesautobahn 9
+126,08.02.2025,Grimma,Bahnhofstraße,Verwenden von Kennzeichen verfassungswidriger Organisationen in Grimma
+127,09.02.2025,Wurzen,,Brandstiftung bei Kirchen in Wurzen
+128,21.01.2025,Leipzig (Zentrum-Nord),Eutritzscher Straße,Beschuldigter nach schwerem Raub in Untersuchungshaft
+129,05.02.2025,Partenstein (Pomßen),Hauptstraße,Geschwindigkeitskontrolle am Schulweg
+130,07.02.2025,Leipzig (Holzhausen),Liebertwolkwitzer Straße/Feldstraße,Verkehrsunfall in Holzhausen
+131,01.03.2025,Laußig (Pressel),B183,Tödlicher Verkehrsunfall
+132,28.02.2025,Leipzig (Lützschena-Stahmeln),Poststraße,Diebstahl eines Lkw mit Sattelauflieger
+133,19.02.2025,Leipzig (Liebertwolkwitz),Schäferweg,Einbruch in Einfamilienhaus
+134,28.02.2025,Leipzig (Gohlis-Süd),Georg-Schumann-Straße,Einbruch in Café
+135,01.03.2025,Leipzig (Volkmarsdorf),Wurzner Straße,Wiederholter Siegelbruch an Gewerbeeinrichtung
+136,01.03.2025,Markranstädt (Priesteblich),B186,Verkehrsunfall mit zwei Verletzten
+137,26.02.2025 bis 01.03.2025,Leipzig (Zentrum-West),Schreberstraße,Diebstahl Toyota RAV4
+138,28.02.2025,Leipzig (Reudnitz-Thonberg),Riebeckstraße,Paketzusteller schlägt LVB-Mitarbeiter
+139,28.02.2025,Borna,Luckaer Straße,Verfassungsfeindliches Graffiti
+140,16.02.2025 08:10 Uhr,Leipzig (Probstheida),Preußenstraße,Brand in Probstheida
+141,15.02.2025,Leipzig (Mölkau),Moltrechtstraße,Brand in Mölkau - Ergänzungsmeldung
+142,14.02.2025,Leipzig (Zentrum- Ost),Sachsenseite,Diebstahl Fahrzeug - BMW
+143,15.02.2025,Leipzig (Plagwitz),Limburgerstraße,Wohnungsbrand
+144,05.03.2025,Leipzig (Gohlis-Süd),Gohliser Straße,Lieferfahrer versucht auszurauben - Zeugenaufruf
+145,06.03.2025,Leipzig (Meusdorf),Prager Straße,Raubdelikt – Zeugenaufruf
+146,06.03.2025 16:30 Uhr,Torgau (Mehderitzsch),Hauptstraße,Geschwindigkeitskontrolle bringt Verstöße zu Tage
+147,09.03.2025,Leipzig,Bruno-Plache-Stadion,Polizeieinsatz anlässlich eines Fußballregionalligaspiels
+148,15.02.2025 - 21.02.2025,Leipzig (Wiederitzsch),,Diebstahl aus Einfamilienhaus
+149,21.02.2025,Leipzig (Mockau-Nord),Graf-Zeppelin-Ring,Brand eines Audi A4
+150,21.02.2025,Löbnitz,Döbener Weg,Einbruch in Einfamilienhaus
+151,polizeibekannt: 21.02.2025,Leipzig (Grünau-Mitte),Mannheimer Straße,Graffiti an Wahllokal
+152,21.02.2025,Leipzig (Zentrum),Augustusplatz,Verfassungswidriger Gruß in Oper
+153,04.02.2025,Wermsdorf und Leipzig,,Bärlauchdiebstahl
+154,03.02.2025,Leipzig (Volkmarsdorf),,Einbruch in Autohaus
+155,03.02.2025,Leipzig (Grünau-Mitte),,Einbruch in Bäckerei
+156,03.02.2025,Löbnitz,Bitterfelder Straße,Wohnmobil entwendet
+157,04.02.2025,Brandis,,Einbruch in Getränkemarkt
+158,03.02.2025,Leipzig (Lützschena-Stahmeln),Hallesche Straße,Verkehrskontrolle deckt Handel mit Betäubungsmitteln auf
+159,03.02.2025,"Leipzig (Zentrum-Nordwest),Pfaffendorfer Straße",,Alkoholisierter Fußgänger
+160,04.02.2025,Wiedemar,S2/Carl-Friedrich-Benz-Straße,Verkehrsunfall zwischen Bus und Pkw
+161,10.03.2025,Leipzig (Seehausen),Messe-Allee,Bundespolizei schnappt mutmaßlichen Drogenhändler
+162,09.03.2025,Leipzig (Zentrum-Nordwest),Am Sportforum,Drei Graffitisprayer gestellt
+163,11.03.2025,Machern (Gerichshain),Leipziger Straße,Verkehrsunfall mit verletzter Frau
+164,20.03.2025,Leipzig (Grünau),Parkallee,Zeugen verfolgen Handtaschenräuber
+165,20.03.2025,Leipzig (Lindenthal),Triftsiedlung,Tatverdächtige bei Einbruch überrascht
+166,21.03.2025,Leipzig (Zentrum),,Tatverdächtiger nach Einbruch in Fahrzeuge gestellt
+167,19.03.2015,Markkleeberg,Am Wolfswinkel,Diebstahl eines Hyundai Ioniq 5
+168,20.03.2025,Leipzig (Plagwitz),,Einbruch in Geschäft
+169,20.03.2025,Leipzig (Neustadt-Neuschönefeld),Reclamstraße,Graffitisprayer gestellt
+170,21.03.2025,Leipzig (Plagwitz),Erich-Zeigner-Allee,Brand in Mehrfamilienhaus
+171,19.03.2025,Leipzig (Eutritzsch),Buschenaustraße,Diebstahl aus Transporter
+172,08.03.2025,Brandis (Beucha),Albert-Kuntz-Straße,Tatverdächtige nach Automatensprengung gestellt
+173,06.03.2025,Leipzig,,Lastkraftwagen mit mehr als 60 Mängeln
+174,07.03.2025,Rackwitz (Zschortau),Schmiedestraße,Brand einer Gartenlaube
+175,07.03.2025,Rackwitz (Podelwitz),B 184 / Podelwitzer Straße,Verkehrsunfall mit zwei verletzten Personen
+176,08.03.2025,Schkeuditz (Dölzig),Merseburger Chaussee,Enforcement Trailer aufgesprengt
+177,08.03.2025,Leipzig (Heiterblick),Paunsdorfer Allee,Fahrkartenautomat aufgebrochen
+178,08.03.2025,Leipzig (Neustadt-Neuschönefeld),Mariannenstraße,Brand in einem Mehrfamilienhaus
+179,08.03.2025,Brandis (Beucha),Brandiser Straße,Brand in Beucha
+180,15.03.2025,Leipzig (Südvorstadt),,Drogenfund nach Auseinandersetzung
+181,14.03.2025,Leipzig (Zentrum-Süd),,Beschädigte Fahrzeuge und beschmierte Hausfassade
+182,15.03.2025,Leipzig (Sellerhausen-Stünz),Theodor-Heuss-Straße,Schwerverletzter nach möglichem Verkehrsunfall - Zeugenaufruf
+183,15.03.2025,Leipzig (Kleinzschocher),,Brand eines Wohnwagens
+184,15.03.2025,Leipzig (Connewitz),Meusdorfer Straße,Einbruch in Geschäft
+185,25.02.2025,Delitzsch,August-Bebel-Straße,Sachbeschädigung
+186,26.02.2025,Leipzig,,Gemeinschaftsunterkunft beschädigt
+187,26.02.2025,Rackwitz,Kölner Straße,Verkehrsunfall mit mehreren Verletzten
+188,26.02.2025,Leipzig,"BAB 14 km 86,75 i.R Magdeburg",Betrunkener Lkw-Fahrer
+189,21.02.2025,Wurzen,,Schwere Brandstiftung Kirche - Tatverdächtiger in Untersuchungshaft
+190,21.02.2025,Leipzig (Lindenau),Endersstraße,Zigarettenautomat gesprengt
+191,21.02.2025,Mockrehna (Langenreichenbach),K8985 zwischen Schildau und Langenreichenbach,Unfall beim Überholen
+192,16.03.2025,Zschepplin,Siedlung der Einheit,Garagenbrand - Person verletzt
+193,16.03.2025,Torgau,Sindelfinger Straße,Wohnungsbrand
+194, 17.03.2025,Grimma (Förstgen),,Gesprengter Zigarettenautomat
+195,16.03.2025,Leipzig (Zentrum-Süd),,Polizeiwache mit Pflastersteinen beworfen
+196,16.03.2025,Taucha (Pönitz),,Verfolgungsfahrt unter Drogeneinfluss und ohne Fahrerlaubnis
+197,Zeit:: 17.03.2025,Leipzig. (Lausen-Grünau) Zingster Straße,,Kellerbrand in Mehrfamilienhaus
+198,13.02.2025,Leipzig (Stötteritz),Rudolph-Herrmann-Straße,Herbeiführen einer Sprengstoffexplosion
+199,12.02.2025,Beilrode (Zwethau),,Brand einer Werkstatt
+200,11.02.2025,Delitzsch,,Diebstahl von zwei Quads
+201,12.02.2025,Leipzig (Wahren),Auwald,Bärlauchentnahme - Sammler gestellt
+202,13.02.2025,Leipzig,,Verkehrsunfall unter Alkoholeinfluss
+203,05.02.2025,Leipzig (Paunsdorf),Hainbuchenstraße,Raub von hochwertigen Fahrrädern
+204,06.02.2025,Leipzig (Zentrum-Nordwest),Fußgängerüberweg Waldstraße/ Feuerbachstraße,Kind von Fahrzeug erfasst - Zeugenaufruf
+205,06.03.2025,Leipzig (Volkmarsdorf),Eisenbahnstraße,Durchsuchungsmaßnahmen in Lokal
+206,05.03.2025,Frohburg,,Simsonfahrer nach Flucht gestellt
+207,06.03.2025,Leipzig (Altlindenau),Jahnallee,Kleintransporter fuhr ins Gleisbett
+208,06.03.2025,Wurzen (Kühren),Alte Bahnhofsstraße,Gesprengter Fahrkartenautomat
+209,05.03.2025,Leipzig (Neulindenau),Saalfelder Straße,Einbruch in Büroräume
+210,05.03.2025,Leipzig (Lützschena-Stahmeln),Hallesche Straße,nbruch in Firmenräume
+211,05.03.2025,Leipzig (Kleinzschocher),,Einbruch in Lieferdienst
+212,06.03.2025,Leipzig (Dölitz-Dösen),,Einbruch in Einfamilienhaus
+213,05.03.2025,Leipzig (Grünau-Mitte),,Sachbeschädigung an Wahlkreisbüro
+214,06.03.2025,Schkeuditz (Dölzig),B186,Verkehrsunfall mit zwei verletzten Personen
+215,06.03.2025,Rackwitz (Brodenaundorf),B184,Verkehrsunfall mit verletztem Motorradfahrer
+216,02.03.2025,Otterwisch (Großbuch),,Leichenfund nach Scheunenbrand in Otterwisch
+217,05.03.2025,Leipzig (Zentrum),Brühl,Versuchter Raub einer Geldbörse
+218,05.03.2025,Leipzig (Gohlis-Süd),Lindenthaler Straße,Raubdelikt
+219,04.03.2025,Torgau (Beckwitz),,Diebstahl eines Radladers
+220,05.03.2025,Leipzig (Burghausen-Rückmarsdorf),An der Vogelweide,Brand auf einem Dachboden
+221,05.03.2025,Leipzig (Probstheida),Prager Straße,Fahrkartenautomat aufgebrochen
+222,05.03.2025,Markkleeberg,Am Auenwald,Hyundai gestohlen
+223,09.02.2025,Leipzig (Zentrum),Petersstraße,Tatverdächtiger nach Einbruch gestellt
+224,09.02.2025,Borsdorf,Bahnhofstraße,Fahrkartenautomat gesprengt
+225,09.02.2025,Leipzig (Lindenau),Aurelienstraße,Radfahrerin schwer verletzt
+226,01.02.2025,Mockrehna,,Zeugenaufruf nach Flucht eines SUV
+227,09.02.2025,Leipzig,,Tatverdächtiger nach Einbruch in Baumarkt gestellt
+228,10.03.2025,Borna,,Tatverdächtige bei Einbruch in Juweliergeschäft gestellt
+229,10.03.2025,Leipzig (Südvorstadt),Karl-Liebknecht-Straße,Einbruch in Fachgeschäft
+230,Ergebnis: Tatzeit: 10.03.2025,Leipzig (Zentrum-Südost),,Einbruch in Museum
+231,11.03.2025,Leipzig (Grünau-Nord),Titaniaweg,Brand in Mehrfamilienhaus
+232,10.03.2025 14:04,Wurzen,Dresdener Straße,Betrunkener Lkw-Fahrer
+233,10.03.2025,Leipzig (Gohlis-Nord),Slevogtstraße,Schüler beraubt - Zeugen gesucht
+234,06.09.2024,Leipzig (Zentrum-Süd),,Geraubte Musikbox bei Durchsuchung gefunden
+235,11.02.2025,Leipzig (Grünau-Nord),Am kleinen Feld,Wohnungseinbruch mit hohem Stehlschaden
+236,14.02.2025,Leipzig (Grünau-Mitte),,Sachbeschädigung und Brandstiftung in Lokal
+237,13.02.2025,Leipzig (Sellerhausen-Stünz),Theodor-Heuss-Straße,Verkehrsunfall mit einer verletzten Person und Auswirkungen auf Bahnverkehr
+238,13.02.2025,Parthenstein (Klinga),S45,Verkehrsunfall mit über 2 Promille
+239,13.02.2025,Zuständigkeitsbereich der Polizeidirektion Leipzig,,Zahlreiche Unfälle aufgrund winterglatter Fahrbahnen
+240,16.03.2025,Leipzig,,Festnahme nach Kellereinbruch
+241,17.03.2025,Leipzig (Neustadt-Neuschönefeld),Neustädter Straße,Raubdelikt
+242,18.03.2025,Leipzig (Zentrum-Nord),Eutritzscher Straße,Verkehrsunfall mit drei Verletzten
+243,18.03.2025,Frohburg (Tautenhain),Tautenhainer Straße,Verkehrsunfall mit drei Verletzten
+244,18.03.2025,Leipzig (Zentrum-Nord),Eutritzscher Straße/ Ernst-Pinkert-Straße,Verkehrsunfall zwischen Pedelec und Motorrad
+245,16.03.2025,Rötha,Güntzelstraße,Falscher Polizeibeamter
+246,17.03.2025,Leipzig (Connewitz),Arthur-Hoffmann-Straße,Fahrzeug beschädigt
+247,19.03.2025,Leipzig (Grünau-Nord),,Täter nach Sachbeschädigung gestellt
+248,08.03.2025,Leipzig (Zentrum-Nord),Springerstraße,Brand in einem Mehrfamilienhaus
+249,08.03.2025,Leipzig (Volkmarsdorf),Schulze-Delitzsch-Straße,Einbruch in Geschäftsräume
+250,08.03.2025,Leipzig (Zentrum-West),Ferdinand-Lassalle-Straße,19-Jähriger angegriffen
+251,08.03.2025,Großpösna,,Bedrohung und Beleidigung
+252,27.02.2025,Ort:Leipzig (Thekla),,Einbruch bei Pflegedienst
+253,27.02.2025,Leipzig (Reudnitz-Thonberg),,Einbruch in Späti
+254,27.02.2025,Schönwölkau (Badrina),,Brand in Nebengelass
+255,27.02.2025,Leipzig (Zentrum),Markt,Tatverdächtige nach Sachbeschädigung gestellt
+256,23.02.2025,Oschatz,,Sachbeschädigung an Bürgerbüro
+257,27.02.2025,Leipzig (Zentrum-West),Marschnerstraße,Ohne Fahrerlaubnis und unter Alkohol und Drogen geflüchtet
+258,27.02.2025,Schkeuditz,Paul-Thiersch-Straße,Unfallflucht mit Zeugenaufruf
+259,19.02.2025,Parthenstein (Großsteinberg),Am See/Pomßener Landstraße,Ergänzungsmeldung - Schwerer Verkehrsunfall mit drei Verletzten
+260,28.02.2025,Leipzig (Reudnitz-Thonberg),,Einbruch in Arztpraxis
+261,28.02.2025,Leipzig (Reudnitz-Thonberg),,Einbruch in ein Geschäft
+262,03.03.2025 08:00 Uhr bis 08:30 Uhr,Großpösna (Güldengossa),Auenhainer Straße,Diebstahl eines Transporters - ein Tatverdächtiger
+263,02.03.2025,Leipzig (Connewitz),Thierbacher Straße,Diebstahl eines Toyota
+264,03.03.2025,04158 Leipzig (Lützschena-Stahmeln),Hugo-Junkers-Straße,Radfahrer verletzt - Zeugenaufruf
+265,01.03.2025,Leipzig (Zentrum-Süd),Karl-Liebknecht-Straße/Hohe Straße,Versuchter Raub
+266,02.03.2025,Leipzig (Mockau-Nord),Dortmunder Straße,Einbruch in Geschäft
+267,02.03.2025,Leipzig (Volkmarsdorf),Eisenbahnstraße,Auseinandersetzung in der Eisenbahnstraße
+268,02.03.2025,Kitzscher,August-Bebel-Straße,Brand in Wohnung
+269,02.03.2025,Otterwisch (Großbuch),Dorfstraße,Scheunenbrand
+270,01.03.2025,Leipzig (Connewitz),Stockartstraße,Sachbeschädigung an renoviertem Mehrfamilienhaus
+271,02.03.2025,Leipzig (Lausen-Grünau),Ratzelstraße,Haltestelle besprüht
+272,02.03.2025,Leipzig (Neulindenau),Schomburgkstraße,Verkehrsunfall mit verletztem Motorradfahrer
+273,02.03.2025,Leipzig (Neulindenau),Schomburgkstraße,Verkehrsunfall mit einer verletzten Person
+274,02.03.2025,Eilenburg,B87 / B107,Fahrzeugbrand
+275,02.03.2025,Bundesautobahn 14,"Kilometer 69,75",Pkw auf Autobahn überschlagen
+276,03.03.2025,Leipzig (Zentrum-Südost),Semmelweisstraße,Automatensprengung an der S-Bahnhaltestelle MDR
+277,11.02.2025 06:00 Uhr bis 13:30 Uhr,PD Leipzig,,Durchsuchungsmaßnahmen zur Bekämpfung der Kinderpornografie
+278,12.02.2025,Frohburg (Flößberg),Straße des Friedens,Junge bei Unfall verletzt
+279,11.02.2025,Leipzig (Gohlis-Mitte),Landsberger Straße,Falsche Polizeibeamte
+280,10.02.2025,Eilenburg,Stadtpark,Diebstahl einer Bronzestatue
+281,11.02.2025,Doberschütz (Paschwitz),Alte Dorfstraße,Fahrzeug gerät in Brand
+282,11.02.2025,Leipzig (Grünau-Mitte),Ringstraße,Explosion im Hausflur
+283,12.02.2025,Leipzig (Engelsdorf),Engelsdorfer Straße,Brand im Kellerbereich eines Mehrfamilienhauses
+284,14.03.2025,Leipzig (Leutzsch),Alfred-Kunze-Sportpark,Fußballspiel BSG Chemie Leipzig gegen Rot-Weiß Erfurt
+285,10.03.2025,Schkeuditz,,Diebstahl von Fahrzeugteilen
+286,12.03.2025,Leipzig (Altlindenau),Georg-Schwarz-Straße,Ein Verletzter nach Küchenbrand
+287,13.03.2025,Markkleeberg,,Brandstiftung - Zwei Versuche in einer Nacht
+288,13.03.2025,Leipzig (Leutzsch),Ludwig-Hupfeld-Straße,Gestohlener Transporter während des Abschleppens zurückgelassen
+289,12.03.2025,Taucha,Leipziger Straße,Unfall unter dem Einfluss von Drogen
+290,12.03.2025 15:00 Uhr,Leipzig (Großzschocher),Arthur-Nagel-Straße,"Unfall mit 3,3 Promille"
+291,12.03.2025,Ort Leipzig (Neulindenau),,Einbruch in Sporteinrichtung
+292,19.03.2025,Leipzig (Anger-Crottendorf),,Brand einer Gartenlaube
+293,19.03.2025,Geithain,Tautenhainer Straße/Kalkweg,Tödlicher Verkehrsunfall
+294,17.03.2025,Leipzig (Böhlitz-Ehrenberg),Heinrich-Heine-Straße,Sachbeschädigung an Enforcement-Trailer
+295,19.03.2025,Leipzig (Reudnitz-Thonberg),Hofer Straße,Brand in Mietwohnung
+296,18.03.2025,Colditz,,Einbruch in Firma
+297,16.03.2025,Borna,,Einbruch in Vereinsheim
+298,11.03.2025,A 14,,Zeugenaufruf nach Unfall mit zivilem Polizeifahrzeug auf der A 14
+299,19.02.2025,Leipzig und Köln,,"Durchsuchungen wegen Geldwäsche und Messengerbetrug - Gemeinsame Medieninformation der Polizeidirektionen Leipzig, Staatsanwaltschaft Leipzig, Staatsanwaltschaft Köln und Polizei Köln"
+300,15.12.2024,Leipzig (Zentrum-Nord),Berliner Straße,Festnahme nach versuchtem Tötungsdelikt – Ergänzungsmeldung
+301,18.02.2025,Arzberg (Köllitsch),,Mehrere Kälber entwendet
+302,15.02.2025,Leipzig (Paunsdorf),Goldsternstraße,Einbruch in Gaststätte
+303,16.02.2025,Schkeuditz (Dölzig),Döbichauer Straße,Brand auf einem Dach
+304,16.02.2025,Böhlen,,Unfallflucht unter Alkohol
+305,15.02.2025,Leipzig (Grünau-Mitte),Lützner Str.,Einbruch in Schmuckgeschäft
+306,08.02.2025,Leipzig,Stadtgebiet,Polizeieinsatz anlässlich mehrerer Wahlkampfveranstaltungen
+307,08.02.2025,Leipzig (Gohlis-Süd),Lützowstraße/Virchowstraße,44-Jähriger beschädigt Werbetafel
+308,08.02.2025,Leipzig (Probstheida),Connewitzer Straße,Auseinandersetzung im Zusammenhang mit Fußballspiel
+309,07.02.2025,Taucha,Am Schwarzen Berg,Brand in Taucha
+310,25.01.2025,Sachsen,,Festnahme von reisenden Trickdieben
+311,31.01.25,Leipzig (Schönefeld- Ost),Bautzener Straße,Einbruch in Werkstatt
+312,02.02.2025,Dommitzsch,Straße des Friedens,Wohnungsbrand
+313,01.02.2025,Leipzig (Leutzsch),Heimteichstraße,Brennende Weihnachtsbäume
+314,01.02.2025,Leipzig (Connewitz),Wolfgang-Heinze-Straße,Brennende Baustellenabsperrungen
+315,01.02.2025,Thallwitz,,Werkstattbrand
+316,01.02.2025,Schkeuditz (Dölzig),B186,Verkehrsunfall mit drei Verletzten
+317,01.02.2025,Leipzig (Marienbrunn),Zwickauer Straße,Enforcement-Trailer beschädigt
+318,01.02.25,Leipzig (Burghausen-Rückmarsdorf),,Gestohlenes Fahrzeug wiedergefunden
+319,01.02.2025,Leipzig (Leutzsch),,Einbruch in Restaurant
+320,12.03.2025,Leipzig (Wiederitzsch),,Polizeieinsatz in Leipziger Einfamilienhaussiedlung
+321,11.03.2025,Wurzen,Windmühlenweg,Brand einer Gartenlaube
+322,02.02.2025,Leipzig (Zentrum-Nordwest),Leibnizstraße,Räuberische Erpressung - Zeugenaufruf
+323,02.03.2025 02:00 Uhr - 02.03.2025 07:45 Uhr,Wiedemar (Zschernitz),Mittelstraße / Doberstauer Straße,Fahrerflucht - Zeugenaufruf
+324,11.03.2025 gegen 12:10 Uhr,Oschatz (Leuben),,Verfolgungsfahrt mit Simson
+325,05.02.2025,Wiedemar,B 183a/Serbitzer Straße,Verkehrsunfall zwischen Pkw und Lkw
+326,05.02.2025,Pomßen,Hauptstraße,Geschwindigkeitsmessung in Pomßen
+327,05.02.2025,Leipzig (Mölkau),Engelsdorfer Straße,Brand im Obergeschoss
