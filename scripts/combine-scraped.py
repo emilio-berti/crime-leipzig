@@ -12,5 +12,5 @@ for file in files:
     except Exception as e:
       print(f"Skipping {file}: {e}")
 
-combined = pd.concat(dataframes, ignore_index=True)
+combined = pd.concat(dataframes, ignore_index=True).drop_duplicates()
 combined.to_csv(os.path.join('data', 'crimes.csv'))

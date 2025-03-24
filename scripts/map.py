@@ -6,6 +6,7 @@ from shapely.geometry import Polygon
 from geopy.geocoders import Nominatim
 import plotly.express as px
 import plotly.io as pio
+import json
 
 if len(sys.argv) == 1:
     clean = True
@@ -14,7 +15,7 @@ else:
 
 if clean:
     # read crime csv --------
-    d = pd.read_csv("data/crimes.csv")
+    d = pd.read_csv("data/crimes.csv").drop_duplicates()
     streets = d.street
     places = d.district
     places = [x.replace(' (', ', ').replace(')', '') for x in places]
@@ -51,19 +52,115 @@ if clean:
     d.to_file("data/crimes.shp")
 
 geo = gpd.read_file("data/crimes.shp")
-geo['size'] = 2
+geo['color'] = 'gold'
+geo['size'] = 1
 px.set_mapbox_access_token(open(".mapbox_token").read())
 fig = px.scatter_mapbox(
     geo,
     lat = geo.geometry.y,
     lon = geo.geometry.x,
     opacity = 0.75,
+    color_discrete_sequence = ['#FFC300'],
     size = "size",
+    size_max = 10,
     hover_name = "crime",
-    hover_data = ["crime", "district", "street", "date"],
+    hover_data = ["district", "street", "date"],
     zoom = 10,
-    color = "crime",
-    mapbox_style = "satellite-streets"
+    mapbox_style = "satellite-streets",
+    title = "Crimes in Leipzig"
 )
-pio.write_image(fig, "figures/map", format = "pdf")
-fig.show()
+fig.write_html("figures/points.html")
+
+districts = gpd.read_file("data/ot.shp")
+districts = districts.to_crs(geo.crs)
+total_crimes = pd.DataFrame({
+    'n': gpd.sjoin(districts, geo).groupby("OT").Name.count()
+})
+missing_OT = [x for x in districts.OT if x not in total_crimes.index]
+total_crimes = pd.concat([
+    total_crimes,
+    pd.DataFrame(
+        {'n': [0 for x in missing_OT], 'OT': missing_OT},
+        index = missing_OT
+    ).set_index('OT')
+])
+m = districts.merge(total_crimes, on = "OT")
+
+""" figure """
+fig = px.choropleth_mapbox(
+    data_frame = m[["Name", "n", "OT"]],
+    geojson = json.loads(m.to_json()),
+    featureidkey = "properties.OT",
+    locations = "OT",
+    color = "n",
+    opacity = 0.75,
+    hover_name = "Name",
+    hover_data = ["Name", "n"],
+    zoom = 10,
+    center = dict(lat = 51.34, lon = 12.38),
+    mapbox_style = "satellite-streets",
+    color_continuous_scale = ["#584B9F", "#22C4B3", "#FEFDBE", "#F39B29", "#A71B4B"]
+)
+scatter_trace = px.scatter_mapbox(
+    geo,
+    lat = geo.geometry.y,
+    lon = geo.geometry.x,
+    opacity = 0.75,
+    color_discrete_sequence = ['#FFC300'],
+    size = "size",
+    size_max = 10,
+    hover_name = "crime",
+    hover_data = ["district", "street", "date"],
+    zoom = 10,
+    mapbox_style = "satellite-streets",
+    title = "Crimes in Leipzig"
+).data[0]
+scatter_trace.visible = False
+fig.add_trace(scatter_trace)
+fig.update_layout(
+    title = {
+        'text': "Crime in Leipzig",
+        'y': 1,  # Position from top (0-1)
+        'x': 0.45,   # Center horizontally
+        'xanchor': 'center',
+        'yanchor': 'top',
+        'font': {
+            'size': 24,
+            'family': "Arial, sans-serif"
+        }
+    },
+    width = 600,
+    height = 600,
+    autosize = True,
+    legend = dict(
+        orientation = "h",
+        yanchor = "bottom",
+        y = -0.3,
+        xanchor = "center",
+        x = 0.5
+    ),
+    updatemenus = [
+        dict(
+            type = "buttons",
+            direction = "right",
+            x = 0.05,
+            y = 0.95,
+            xanchor = "left",
+            yanchor = "top",
+            buttons = list([
+                dict(
+                    args = [{"visible": [True, False]}],
+                    label = "Show districts",
+                    method = "update"
+                ),
+                dict(
+                    args = [{"visible": [False, True]}],
+                    label = "Show crimes",
+                    method = "update"
+                )
+            ])
+        )
+    ],
+    margin = dict(r = 0, t = 40, l = 0, b = 40)
+)
+fig.write_html("figures/map.html", include_plotlyjs='cdn')

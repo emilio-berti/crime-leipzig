@@ -1,9 +1,11 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver.firefox.service import Service
 import pandas as pd
 import time
 
-driver = webdriver.Firefox()
+service = Service("/snap/bin/firefox.geckodriver")
+driver = webdriver.Firefox(service = service)
 driver.get('https://www.polizei.sachsen.de/de/medieninformationen_pdl.htm')
 null = input("Click on a month and press Enter to start scraping")
 
@@ -11,7 +13,7 @@ url = driver.current_url
 presse = driver.find_element(By.ID, 'presse')
 links = presse.find_elements(By.XPATH, './/*[@href]')
 for i in range(len(links)):
-  time.sleep(1)
+  # time.sleep(1)
   driver.get(url)
   presse = driver.find_element(By.ID, 'presse')
   links = presse.find_elements(By.XPATH, './/*[@href]')
@@ -36,7 +38,8 @@ for i in range(len(links)):
       print(f"Error {ind}: {e}")
 
   d = [x for x in d if x is not None]
-  d = pd.DataFrame(d)
+  d = pd.DataFrame(d).drop_duplicates()
+
   target = driver.current_url.split('/')[-1].replace('htm', 'csv')
   d.to_csv(f'data/polizei/{target}', index = False)
 
